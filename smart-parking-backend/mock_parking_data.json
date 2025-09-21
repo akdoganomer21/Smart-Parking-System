@@ -1,0 +1,8002 @@
+[
+  {
+    "city": "Adana",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ADA-01",
+    "location": {
+      "lat": 36.960474,
+      "lng": 35.318598
+    }
+  },
+  {
+    "city": "Adana",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ADA-02",
+    "location": {
+      "lat": 36.980038,
+      "lng": 35.303456
+    }
+  },
+  {
+    "city": "Adana",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ADA-03",
+    "location": {
+      "lat": 36.963854,
+      "lng": 35.34828
+    }
+  },
+  {
+    "city": "Adana",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ADA-04",
+    "location": {
+      "lat": 36.959594,
+      "lng": 35.268478
+    }
+  },
+  {
+    "city": "Adana",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ADA-05",
+    "location": {
+      "lat": 37.027949,
+      "lng": 35.286168
+    }
+  },
+  {
+    "city": "Adana",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ADA-06",
+    "location": {
+      "lat": 36.983154,
+      "lng": 35.320333
+    }
+  },
+  {
+    "city": "Adana",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ADA-07",
+    "location": {
+      "lat": 37.006541,
+      "lng": 35.25314
+    }
+  },
+  {
+    "city": "Adana",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ADA-08",
+    "location": {
+      "lat": 36.969086,
+      "lng": 35.286081
+    }
+  },
+  {
+    "city": "Adana",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ADA-09",
+    "location": {
+      "lat": 37.001899,
+      "lng": 35.307334
+    }
+  },
+  {
+    "city": "Adana",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ADA-10",
+    "location": {
+      "lat": 37.015893,
+      "lng": 35.34653
+    }
+  },
+  {
+    "city": "Adıyaman",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ADI-01",
+    "location": {
+      "lat": 37.790918,
+      "lng": 38.311518
+    }
+  },
+  {
+    "city": "Adıyaman",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ADI-02",
+    "location": {
+      "lat": 37.740603,
+      "lng": 38.296106
+    }
+  },
+  {
+    "city": "Adıyaman",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ADI-03",
+    "location": {
+      "lat": 37.789953,
+      "lng": 38.277201
+    }
+  },
+  {
+    "city": "Adıyaman",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ADI-04",
+    "location": {
+      "lat": 37.7458,
+      "lng": 38.256155
+    }
+  },
+  {
+    "city": "Adıyaman",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ADI-05",
+    "location": {
+      "lat": 37.77163,
+      "lng": 38.315948
+    }
+  },
+  {
+    "city": "Adıyaman",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ADI-06",
+    "location": {
+      "lat": 37.752434,
+      "lng": 38.262834
+    }
+  },
+  {
+    "city": "Adıyaman",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ADI-07",
+    "location": {
+      "lat": 37.713507,
+      "lng": 38.273739
+    }
+  },
+  {
+    "city": "Adıyaman",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ADI-08",
+    "location": {
+      "lat": 37.724671,
+      "lng": 38.234028
+    }
+  },
+  {
+    "city": "Adıyaman",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ADI-09",
+    "location": {
+      "lat": 37.773166,
+      "lng": 38.248075
+    }
+  },
+  {
+    "city": "Adıyaman",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ADI-10",
+    "location": {
+      "lat": 37.732207,
+      "lng": 38.261413
+    }
+  },
+  {
+    "city": "Afyonkarahisar",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "AFY-01",
+    "location": {
+      "lat": 38.776259,
+      "lng": 30.543189
+    }
+  },
+  {
+    "city": "Afyonkarahisar",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "AFY-02",
+    "location": {
+      "lat": 38.807419,
+      "lng": 30.541885
+    }
+  },
+  {
+    "city": "Afyonkarahisar",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "AFY-03",
+    "location": {
+      "lat": 38.805286,
+      "lng": 30.562872
+    }
+  },
+  {
+    "city": "Afyonkarahisar",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "AFY-04",
+    "location": {
+      "lat": 38.715635,
+      "lng": 30.524659
+    }
+  },
+  {
+    "city": "Afyonkarahisar",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "AFY-05",
+    "location": {
+      "lat": 38.782523,
+      "lng": 30.498474
+    }
+  },
+  {
+    "city": "Afyonkarahisar",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "AFY-06",
+    "location": {
+      "lat": 38.760771,
+      "lng": 30.579465
+    }
+  },
+  {
+    "city": "Afyonkarahisar",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "AFY-07",
+    "location": {
+      "lat": 38.765174,
+      "lng": 30.501323
+    }
+  },
+  {
+    "city": "Afyonkarahisar",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "AFY-08",
+    "location": {
+      "lat": 38.803946,
+      "lng": 30.563146
+    }
+  },
+  {
+    "city": "Afyonkarahisar",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "AFY-09",
+    "location": {
+      "lat": 38.745725,
+      "lng": 30.494445
+    }
+  },
+  {
+    "city": "Afyonkarahisar",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "AFY-10",
+    "location": {
+      "lat": 38.798926,
+      "lng": 30.540186
+    }
+  },
+  {
+    "city": "Ağrı",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "AĞR-01",
+    "location": {
+      "lat": 39.700354,
+      "lng": 43.076
+    }
+  },
+  {
+    "city": "Ağrı",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "AĞR-02",
+    "location": {
+      "lat": 39.767229,
+      "lng": 43.086495
+    }
+  },
+  {
+    "city": "Ağrı",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "AĞR-03",
+    "location": {
+      "lat": 39.690001,
+      "lng": 43.064282
+    }
+  },
+  {
+    "city": "Ağrı",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "AĞR-04",
+    "location": {
+      "lat": 39.737868,
+      "lng": 43.034521
+    }
+  },
+  {
+    "city": "Ağrı",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "AĞR-05",
+    "location": {
+      "lat": 39.767636,
+      "lng": 43.063365
+    }
+  },
+  {
+    "city": "Ağrı",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "AĞR-06",
+    "location": {
+      "lat": 39.707154,
+      "lng": 43.002331
+    }
+  },
+  {
+    "city": "Ağrı",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "AĞR-07",
+    "location": {
+      "lat": 39.733892,
+      "lng": 43.054489
+    }
+  },
+  {
+    "city": "Ağrı",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "AĞR-08",
+    "location": {
+      "lat": 39.746483,
+      "lng": 43.08226
+    }
+  },
+  {
+    "city": "Ağrı",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "AĞR-09",
+    "location": {
+      "lat": 39.709288,
+      "lng": 43.054627
+    }
+  },
+  {
+    "city": "Ağrı",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "AĞR-10",
+    "location": {
+      "lat": 39.673384,
+      "lng": 43.081473
+    }
+  },
+  {
+    "city": "Aksaray",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "AKS-01",
+    "location": {
+      "lat": 38.38419,
+      "lng": 34.060245
+    }
+  },
+  {
+    "city": "Aksaray",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "AKS-02",
+    "location": {
+      "lat": 38.398582,
+      "lng": 34.007541
+    }
+  },
+  {
+    "city": "Aksaray",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "AKS-03",
+    "location": {
+      "lat": 38.406001,
+      "lng": 34.052473
+    }
+  },
+  {
+    "city": "Aksaray",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "AKS-04",
+    "location": {
+      "lat": 38.414723,
+      "lng": 33.992405
+    }
+  },
+  {
+    "city": "Aksaray",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "AKS-05",
+    "location": {
+      "lat": 38.372267,
+      "lng": 34.048621
+    }
+  },
+  {
+    "city": "Aksaray",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "AKS-06",
+    "location": {
+      "lat": 38.351244,
+      "lng": 34.074672
+    }
+  },
+  {
+    "city": "Aksaray",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "AKS-07",
+    "location": {
+      "lat": 38.408367,
+      "lng": 34.043174
+    }
+  },
+  {
+    "city": "Aksaray",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "AKS-08",
+    "location": {
+      "lat": 38.366619,
+      "lng": 34.02015
+    }
+  },
+  {
+    "city": "Aksaray",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "AKS-09",
+    "location": {
+      "lat": 38.356101,
+      "lng": 34.012564
+    }
+  },
+  {
+    "city": "Aksaray",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "AKS-10",
+    "location": {
+      "lat": 38.381754,
+      "lng": 34.023293
+    }
+  },
+  {
+    "city": "Amasya",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "AMA-01",
+    "location": {
+      "lat": 40.607228,
+      "lng": 35.780342
+    }
+  },
+  {
+    "city": "Amasya",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "AMA-02",
+    "location": {
+      "lat": 40.698855,
+      "lng": 35.844077
+    }
+  },
+  {
+    "city": "Amasya",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "AMA-03",
+    "location": {
+      "lat": 40.681773,
+      "lng": 35.812281
+    }
+  },
+  {
+    "city": "Amasya",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "AMA-04",
+    "location": {
+      "lat": 40.696819,
+      "lng": 35.870599
+    }
+  },
+  {
+    "city": "Amasya",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "AMA-05",
+    "location": {
+      "lat": 40.66817,
+      "lng": 35.84715
+    }
+  },
+  {
+    "city": "Amasya",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "AMA-06",
+    "location": {
+      "lat": 40.624825,
+      "lng": 35.793471
+    }
+  },
+  {
+    "city": "Amasya",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "AMA-07",
+    "location": {
+      "lat": 40.691368,
+      "lng": 35.820192
+    }
+  },
+  {
+    "city": "Amasya",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "AMA-08",
+    "location": {
+      "lat": 40.603282,
+      "lng": 35.827949
+    }
+  },
+  {
+    "city": "Amasya",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "AMA-09",
+    "location": {
+      "lat": 40.608239,
+      "lng": 35.808658
+    }
+  },
+  {
+    "city": "Amasya",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "AMA-10",
+    "location": {
+      "lat": 40.680139,
+      "lng": 35.878586
+    }
+  },
+  {
+    "city": "Ankara",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ANK-01",
+    "location": {
+      "lat": 39.900238,
+      "lng": 32.840754
+    }
+  },
+  {
+    "city": "Ankara",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ANK-02",
+    "location": {
+      "lat": 39.923434,
+      "lng": 32.837174
+    }
+  },
+  {
+    "city": "Ankara",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ANK-03",
+    "location": {
+      "lat": 39.922857,
+      "lng": 32.85657
+    }
+  },
+  {
+    "city": "Ankara",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ANK-04",
+    "location": {
+      "lat": 39.950539,
+      "lng": 32.825384
+    }
+  },
+  {
+    "city": "Ankara",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ANK-05",
+    "location": {
+      "lat": 39.922288,
+      "lng": 32.890489
+    }
+  },
+  {
+    "city": "Ankara",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ANK-06",
+    "location": {
+      "lat": 39.937158,
+      "lng": 32.879548
+    }
+  },
+  {
+    "city": "Ankara",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ANK-07",
+    "location": {
+      "lat": 39.946698,
+      "lng": 32.874684
+    }
+  },
+  {
+    "city": "Ankara",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ANK-08",
+    "location": {
+      "lat": 39.967616,
+      "lng": 32.864975
+    }
+  },
+  {
+    "city": "Ankara",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ANK-09",
+    "location": {
+      "lat": 39.890428,
+      "lng": 32.86885
+    }
+  },
+  {
+    "city": "Ankara",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ANK-10",
+    "location": {
+      "lat": 39.894951,
+      "lng": 32.832387
+    }
+  },
+  {
+    "city": "Antalya",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ANT-01",
+    "location": {
+      "lat": 36.890072,
+      "lng": 30.659131
+    }
+  },
+  {
+    "city": "Antalya",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ANT-02",
+    "location": {
+      "lat": 36.933623,
+      "lng": 30.692171
+    }
+  },
+  {
+    "city": "Antalya",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ANT-03",
+    "location": {
+      "lat": 36.863407,
+      "lng": 30.661453
+    }
+  },
+  {
+    "city": "Antalya",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ANT-04",
+    "location": {
+      "lat": 36.851129,
+      "lng": 30.722014
+    }
+  },
+  {
+    "city": "Antalya",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ANT-05",
+    "location": {
+      "lat": 36.903592,
+      "lng": 30.733421
+    }
+  },
+  {
+    "city": "Antalya",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ANT-06",
+    "location": {
+      "lat": 36.933596,
+      "lng": 30.666383
+    }
+  },
+  {
+    "city": "Antalya",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ANT-07",
+    "location": {
+      "lat": 36.899636,
+      "lng": 30.736251
+    }
+  },
+  {
+    "city": "Antalya",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ANT-08",
+    "location": {
+      "lat": 36.890743,
+      "lng": 30.741747
+    }
+  },
+  {
+    "city": "Antalya",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ANT-09",
+    "location": {
+      "lat": 36.885981,
+      "lng": 30.682436
+    }
+  },
+  {
+    "city": "Antalya",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ANT-10",
+    "location": {
+      "lat": 36.855187,
+      "lng": 30.68505
+    }
+  },
+  {
+    "city": "Artvin",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ART-01",
+    "location": {
+      "lat": 41.162655,
+      "lng": 41.863329
+    }
+  },
+  {
+    "city": "Artvin",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ART-02",
+    "location": {
+      "lat": 41.137452,
+      "lng": 41.867232
+    }
+  },
+  {
+    "city": "Artvin",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ART-03",
+    "location": {
+      "lat": 41.177138,
+      "lng": 41.861863
+    }
+  },
+  {
+    "city": "Artvin",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ART-04",
+    "location": {
+      "lat": 41.13233,
+      "lng": 41.825476
+    }
+  },
+  {
+    "city": "Artvin",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ART-05",
+    "location": {
+      "lat": 41.181796,
+      "lng": 41.849079
+    }
+  },
+  {
+    "city": "Artvin",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ART-06",
+    "location": {
+      "lat": 41.168488,
+      "lng": 41.774767
+    }
+  },
+  {
+    "city": "Artvin",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ART-07",
+    "location": {
+      "lat": 41.226335,
+      "lng": 41.79234
+    }
+  },
+  {
+    "city": "Artvin",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ART-08",
+    "location": {
+      "lat": 41.213564,
+      "lng": 41.839623
+    }
+  },
+  {
+    "city": "Artvin",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ART-09",
+    "location": {
+      "lat": 41.226217,
+      "lng": 41.838662
+    }
+  },
+  {
+    "city": "Artvin",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ART-10",
+    "location": {
+      "lat": 41.144297,
+      "lng": 41.857341
+    }
+  },
+  {
+    "city": "Aydın",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "AYD-01",
+    "location": {
+      "lat": 37.886697,
+      "lng": 27.872238
+    }
+  },
+  {
+    "city": "Aydın",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "AYD-02",
+    "location": {
+      "lat": 37.896264,
+      "lng": 27.854853
+    }
+  },
+  {
+    "city": "Aydın",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "AYD-03",
+    "location": {
+      "lat": 37.849586,
+      "lng": 27.840837
+    }
+  },
+  {
+    "city": "Aydın",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "AYD-04",
+    "location": {
+      "lat": 37.844836,
+      "lng": 27.850903
+    }
+  },
+  {
+    "city": "Aydın",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "AYD-05",
+    "location": {
+      "lat": 37.856645,
+      "lng": 27.791166
+    }
+  },
+  {
+    "city": "Aydın",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "AYD-06",
+    "location": {
+      "lat": 37.853932,
+      "lng": 27.845665
+    }
+  },
+  {
+    "city": "Aydın",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "AYD-07",
+    "location": {
+      "lat": 37.850809,
+      "lng": 27.870599
+    }
+  },
+  {
+    "city": "Aydın",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "AYD-08",
+    "location": {
+      "lat": 37.827794,
+      "lng": 27.809011
+    }
+  },
+  {
+    "city": "Aydın",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "AYD-09",
+    "location": {
+      "lat": 37.891153,
+      "lng": 27.83264
+    }
+  },
+  {
+    "city": "Aydın",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "AYD-10",
+    "location": {
+      "lat": 37.807231,
+      "lng": 27.862105
+    }
+  },
+  {
+    "city": "Balıkesir",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "BAL-01",
+    "location": {
+      "lat": 39.649938,
+      "lng": 27.890605
+    }
+  },
+  {
+    "city": "Balıkesir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BAL-02",
+    "location": {
+      "lat": 39.676611,
+      "lng": 27.921073
+    }
+  },
+  {
+    "city": "Balıkesir",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BAL-03",
+    "location": {
+      "lat": 39.659776,
+      "lng": 27.923695
+    }
+  },
+  {
+    "city": "Balıkesir",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BAL-04",
+    "location": {
+      "lat": 39.601755,
+      "lng": 27.865746
+    }
+  },
+  {
+    "city": "Balıkesir",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BAL-05",
+    "location": {
+      "lat": 39.670385,
+      "lng": 27.891695
+    }
+  },
+  {
+    "city": "Balıkesir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BAL-06",
+    "location": {
+      "lat": 39.645862,
+      "lng": 27.9161
+    }
+  },
+  {
+    "city": "Balıkesir",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "BAL-07",
+    "location": {
+      "lat": 39.699775,
+      "lng": 27.930325
+    }
+  },
+  {
+    "city": "Balıkesir",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "BAL-08",
+    "location": {
+      "lat": 39.630481,
+      "lng": 27.924552
+    }
+  },
+  {
+    "city": "Balıkesir",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BAL-09",
+    "location": {
+      "lat": 39.670038,
+      "lng": 27.858811
+    }
+  },
+  {
+    "city": "Balıkesir",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "BAL-10",
+    "location": {
+      "lat": 39.649732,
+      "lng": 27.914857
+    }
+  },
+  {
+    "city": "Bartın",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "BAR-01",
+    "location": {
+      "lat": 41.624908,
+      "lng": 32.364099
+    }
+  },
+  {
+    "city": "Bartın",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "BAR-02",
+    "location": {
+      "lat": 41.677091,
+      "lng": 32.319502
+    }
+  },
+  {
+    "city": "Bartın",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BAR-03",
+    "location": {
+      "lat": 41.584013,
+      "lng": 32.304438
+    }
+  },
+  {
+    "city": "Bartın",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "BAR-04",
+    "location": {
+      "lat": 41.622526,
+      "lng": 32.336456
+    }
+  },
+  {
+    "city": "Bartın",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "BAR-05",
+    "location": {
+      "lat": 41.580562,
+      "lng": 32.336721
+    }
+  },
+  {
+    "city": "Bartın",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BAR-06",
+    "location": {
+      "lat": 41.615689,
+      "lng": 32.303829
+    }
+  },
+  {
+    "city": "Bartın",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "BAR-07",
+    "location": {
+      "lat": 41.675498,
+      "lng": 32.357868
+    }
+  },
+  {
+    "city": "Bartın",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "BAR-08",
+    "location": {
+      "lat": 41.58284,
+      "lng": 32.365591
+    }
+  },
+  {
+    "city": "Bartın",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BAR-09",
+    "location": {
+      "lat": 41.589927,
+      "lng": 32.357592
+    }
+  },
+  {
+    "city": "Bartın",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BAR-10",
+    "location": {
+      "lat": 41.607982,
+      "lng": 32.353786
+    }
+  },
+  {
+    "city": "Batman",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BAT-01",
+    "location": {
+      "lat": 37.898925,
+      "lng": 41.124987
+    }
+  },
+  {
+    "city": "Batman",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BAT-02",
+    "location": {
+      "lat": 37.912229,
+      "lng": 41.142709
+    }
+  },
+  {
+    "city": "Batman",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BAT-03",
+    "location": {
+      "lat": 37.844922,
+      "lng": 41.100994
+    }
+  },
+  {
+    "city": "Batman",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BAT-04",
+    "location": {
+      "lat": 37.871796,
+      "lng": 41.104858
+    }
+  },
+  {
+    "city": "Batman",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BAT-05",
+    "location": {
+      "lat": 37.854481,
+      "lng": 41.123451
+    }
+  },
+  {
+    "city": "Batman",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BAT-06",
+    "location": {
+      "lat": 37.856022,
+      "lng": 41.160394
+    }
+  },
+  {
+    "city": "Batman",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BAT-07",
+    "location": {
+      "lat": 37.896337,
+      "lng": 41.117685
+    }
+  },
+  {
+    "city": "Batman",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BAT-08",
+    "location": {
+      "lat": 37.834399,
+      "lng": 41.11036
+    }
+  },
+  {
+    "city": "Batman",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "BAT-09",
+    "location": {
+      "lat": 37.883973,
+      "lng": 41.121559
+    }
+  },
+  {
+    "city": "Batman",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BAT-10",
+    "location": {
+      "lat": 37.86233,
+      "lng": 41.099303
+    }
+  },
+  {
+    "city": "Bayburt",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BAY-01",
+    "location": {
+      "lat": 40.293946,
+      "lng": 40.249793
+    }
+  },
+  {
+    "city": "Bayburt",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BAY-02",
+    "location": {
+      "lat": 40.213629,
+      "lng": 40.219175
+    }
+  },
+  {
+    "city": "Bayburt",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BAY-03",
+    "location": {
+      "lat": 40.239509,
+      "lng": 40.189624
+    }
+  },
+  {
+    "city": "Bayburt",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BAY-04",
+    "location": {
+      "lat": 40.28437,
+      "lng": 40.182652
+    }
+  },
+  {
+    "city": "Bayburt",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "BAY-05",
+    "location": {
+      "lat": 40.216426,
+      "lng": 40.217952
+    }
+  },
+  {
+    "city": "Bayburt",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BAY-06",
+    "location": {
+      "lat": 40.234455,
+      "lng": 40.214896
+    }
+  },
+  {
+    "city": "Bayburt",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "BAY-07",
+    "location": {
+      "lat": 40.250858,
+      "lng": 40.277131
+    }
+  },
+  {
+    "city": "Bayburt",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "BAY-08",
+    "location": {
+      "lat": 40.296867,
+      "lng": 40.188426
+    }
+  },
+  {
+    "city": "Bayburt",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "BAY-09",
+    "location": {
+      "lat": 40.255529,
+      "lng": 40.236922
+    }
+  },
+  {
+    "city": "Bayburt",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "BAY-10",
+    "location": {
+      "lat": 40.225302,
+      "lng": 40.222399
+    }
+  },
+  {
+    "city": "Bilecik",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "BIL-01",
+    "location": {
+      "lat": 40.181341,
+      "lng": 30.003382
+    }
+  },
+  {
+    "city": "Bilecik",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "BIL-02",
+    "location": {
+      "lat": 40.122103,
+      "lng": 29.947591
+    }
+  },
+  {
+    "city": "Bilecik",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BIL-03",
+    "location": {
+      "lat": 40.106692,
+      "lng": 30.028106
+    }
+  },
+  {
+    "city": "Bilecik",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "BIL-04",
+    "location": {
+      "lat": 40.180385,
+      "lng": 29.934569
+    }
+  },
+  {
+    "city": "Bilecik",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "BIL-05",
+    "location": {
+      "lat": 40.159335,
+      "lng": 29.945904
+    }
+  },
+  {
+    "city": "Bilecik",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BIL-06",
+    "location": {
+      "lat": 40.131826,
+      "lng": 30.024941
+    }
+  },
+  {
+    "city": "Bilecik",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BIL-07",
+    "location": {
+      "lat": 40.146473,
+      "lng": 29.932136
+    }
+  },
+  {
+    "city": "Bilecik",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BIL-08",
+    "location": {
+      "lat": 40.141806,
+      "lng": 29.982422
+    }
+  },
+  {
+    "city": "Bilecik",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BIL-09",
+    "location": {
+      "lat": 40.109569,
+      "lng": 29.941438
+    }
+  },
+  {
+    "city": "Bilecik",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "BIL-10",
+    "location": {
+      "lat": 40.119277,
+      "lng": 30.005735
+    }
+  },
+  {
+    "city": "Bingöl",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "BIN-01",
+    "location": {
+      "lat": 39.028073,
+      "lng": 40.815662
+    }
+  },
+  {
+    "city": "Bingöl",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BIN-02",
+    "location": {
+      "lat": 39.010413,
+      "lng": 40.743181
+    }
+  },
+  {
+    "city": "Bingöl",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "BIN-03",
+    "location": {
+      "lat": 39.101776,
+      "lng": 40.730586
+    }
+  },
+  {
+    "city": "Bingöl",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "BIN-04",
+    "location": {
+      "lat": 39.099369,
+      "lng": 40.808042
+    }
+  },
+  {
+    "city": "Bingöl",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "BIN-05",
+    "location": {
+      "lat": 39.029392,
+      "lng": 40.776274
+    }
+  },
+  {
+    "city": "Bingöl",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BIN-06",
+    "location": {
+      "lat": 39.017476,
+      "lng": 40.818661
+    }
+  },
+  {
+    "city": "Bingöl",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "BIN-07",
+    "location": {
+      "lat": 39.075189,
+      "lng": 40.777061
+    }
+  },
+  {
+    "city": "Bingöl",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BIN-08",
+    "location": {
+      "lat": 39.035218,
+      "lng": 40.810599
+    }
+  },
+  {
+    "city": "Bingöl",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BIN-09",
+    "location": {
+      "lat": 39.076471,
+      "lng": 40.792984
+    }
+  },
+  {
+    "city": "Bingöl",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BIN-10",
+    "location": {
+      "lat": 39.022673,
+      "lng": 40.804016
+    }
+  },
+  {
+    "city": "Bitlis",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BIT-01",
+    "location": {
+      "lat": 38.375292,
+      "lng": 42.165338
+    }
+  },
+  {
+    "city": "Bitlis",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BIT-02",
+    "location": {
+      "lat": 38.353513,
+      "lng": 42.08951
+    }
+  },
+  {
+    "city": "Bitlis",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BIT-03",
+    "location": {
+      "lat": 38.373111,
+      "lng": 42.128957
+    }
+  },
+  {
+    "city": "Bitlis",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BIT-04",
+    "location": {
+      "lat": 38.42786,
+      "lng": 42.133215
+    }
+  },
+  {
+    "city": "Bitlis",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BIT-05",
+    "location": {
+      "lat": 38.399727,
+      "lng": 42.070756
+    }
+  },
+  {
+    "city": "Bitlis",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "BIT-06",
+    "location": {
+      "lat": 38.373613,
+      "lng": 42.144934
+    }
+  },
+  {
+    "city": "Bitlis",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BIT-07",
+    "location": {
+      "lat": 38.42083,
+      "lng": 42.086703
+    }
+  },
+  {
+    "city": "Bitlis",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BIT-08",
+    "location": {
+      "lat": 38.442579,
+      "lng": 42.081646
+    }
+  },
+  {
+    "city": "Bitlis",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "BIT-09",
+    "location": {
+      "lat": 38.383095,
+      "lng": 42.121519
+    }
+  },
+  {
+    "city": "Bitlis",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BIT-10",
+    "location": {
+      "lat": 38.449326,
+      "lng": 42.11713
+    }
+  },
+  {
+    "city": "Bolu",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BOL-01",
+    "location": {
+      "lat": 40.722506,
+      "lng": 31.636997
+    }
+  },
+  {
+    "city": "Bolu",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BOL-02",
+    "location": {
+      "lat": 40.684628,
+      "lng": 31.594683
+    }
+  },
+  {
+    "city": "Bolu",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "BOL-03",
+    "location": {
+      "lat": 40.696263,
+      "lng": 31.592077
+    }
+  },
+  {
+    "city": "Bolu",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BOL-04",
+    "location": {
+      "lat": 40.750356,
+      "lng": 31.580233
+    }
+  },
+  {
+    "city": "Bolu",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BOL-05",
+    "location": {
+      "lat": 40.688001,
+      "lng": 31.652917
+    }
+  },
+  {
+    "city": "Bolu",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BOL-06",
+    "location": {
+      "lat": 40.748713,
+      "lng": 31.635352
+    }
+  },
+  {
+    "city": "Bolu",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "BOL-07",
+    "location": {
+      "lat": 40.694195,
+      "lng": 31.568778
+    }
+  },
+  {
+    "city": "Bolu",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BOL-08",
+    "location": {
+      "lat": 40.74441,
+      "lng": 31.598818
+    }
+  },
+  {
+    "city": "Bolu",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BOL-09",
+    "location": {
+      "lat": 40.7012,
+      "lng": 31.580611
+    }
+  },
+  {
+    "city": "Bolu",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BOL-10",
+    "location": {
+      "lat": 40.727829,
+      "lng": 31.642027
+    }
+  },
+  {
+    "city": "Burdur",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BUR-01",
+    "location": {
+      "lat": 37.683141,
+      "lng": 30.299819
+    }
+  },
+  {
+    "city": "Burdur",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "BUR-02",
+    "location": {
+      "lat": 37.682465,
+      "lng": 30.323771
+    }
+  },
+  {
+    "city": "Burdur",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "BUR-03",
+    "location": {
+      "lat": 37.744131,
+      "lng": 30.300359
+    }
+  },
+  {
+    "city": "Burdur",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "BUR-04",
+    "location": {
+      "lat": 37.756817,
+      "lng": 30.325869
+    }
+  },
+  {
+    "city": "Burdur",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "BUR-05",
+    "location": {
+      "lat": 37.729603,
+      "lng": 30.252928
+    }
+  },
+  {
+    "city": "Burdur",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "BUR-06",
+    "location": {
+      "lat": 37.727427,
+      "lng": 30.265818
+    }
+  },
+  {
+    "city": "Burdur",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "BUR-07",
+    "location": {
+      "lat": 37.761879,
+      "lng": 30.298309
+    }
+  },
+  {
+    "city": "Burdur",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "BUR-08",
+    "location": {
+      "lat": 37.675689,
+      "lng": 30.298894
+    }
+  },
+  {
+    "city": "Burdur",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BUR-09",
+    "location": {
+      "lat": 37.74193,
+      "lng": 30.243559
+    }
+  },
+  {
+    "city": "Burdur",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "BUR-10",
+    "location": {
+      "lat": 37.754223,
+      "lng": 30.236204
+    }
+  },
+  {
+    "city": "Bursa",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BUR-01",
+    "location": {
+      "lat": 40.137342,
+      "lng": 29.034496
+    }
+  },
+  {
+    "city": "Bursa",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BUR-02",
+    "location": {
+      "lat": 40.188585,
+      "lng": 29.091332
+    }
+  },
+  {
+    "city": "Bursa",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "BUR-03",
+    "location": {
+      "lat": 40.210794,
+      "lng": 29.035416
+    }
+  },
+  {
+    "city": "Bursa",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "BUR-04",
+    "location": {
+      "lat": 40.130968,
+      "lng": 29.092983
+    }
+  },
+  {
+    "city": "Bursa",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "BUR-05",
+    "location": {
+      "lat": 40.150788,
+      "lng": 29.080619
+    }
+  },
+  {
+    "city": "Bursa",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BUR-06",
+    "location": {
+      "lat": 40.167531,
+      "lng": 29.044153
+    }
+  },
+  {
+    "city": "Bursa",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "BUR-07",
+    "location": {
+      "lat": 40.21929,
+      "lng": 29.071289
+    }
+  },
+  {
+    "city": "Bursa",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "BUR-08",
+    "location": {
+      "lat": 40.205204,
+      "lng": 29.03598
+    }
+  },
+  {
+    "city": "Bursa",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "BUR-09",
+    "location": {
+      "lat": 40.210146,
+      "lng": 29.042224
+    }
+  },
+  {
+    "city": "Bursa",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "BUR-10",
+    "location": {
+      "lat": 40.209862,
+      "lng": 29.108251
+    }
+  },
+  {
+    "city": "Çanakkale",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ÇAN-01",
+    "location": {
+      "lat": 40.144838,
+      "lng": 26.434421
+    }
+  },
+  {
+    "city": "Çanakkale",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ÇAN-02",
+    "location": {
+      "lat": 40.182313,
+      "lng": 26.43798
+    }
+  },
+  {
+    "city": "Çanakkale",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ÇAN-03",
+    "location": {
+      "lat": 40.172293,
+      "lng": 26.397429
+    }
+  },
+  {
+    "city": "Çanakkale",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ÇAN-04",
+    "location": {
+      "lat": 40.196351,
+      "lng": 26.410378
+    }
+  },
+  {
+    "city": "Çanakkale",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ÇAN-05",
+    "location": {
+      "lat": 40.158542,
+      "lng": 26.441916
+    }
+  },
+  {
+    "city": "Çanakkale",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ÇAN-06",
+    "location": {
+      "lat": 40.124625,
+      "lng": 26.355308
+    }
+  },
+  {
+    "city": "Çanakkale",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ÇAN-07",
+    "location": {
+      "lat": 40.104434,
+      "lng": 26.3987
+    }
+  },
+  {
+    "city": "Çanakkale",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ÇAN-08",
+    "location": {
+      "lat": 40.123268,
+      "lng": 26.403951
+    }
+  },
+  {
+    "city": "Çanakkale",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ÇAN-09",
+    "location": {
+      "lat": 40.194316,
+      "lng": 26.405409
+    }
+  },
+  {
+    "city": "Çanakkale",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ÇAN-10",
+    "location": {
+      "lat": 40.181727,
+      "lng": 26.366727
+    }
+  },
+  {
+    "city": "Çankırı",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ÇAN-01",
+    "location": {
+      "lat": 40.618814,
+      "lng": 33.573758
+    }
+  },
+  {
+    "city": "Çankırı",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ÇAN-02",
+    "location": {
+      "lat": 40.632591,
+      "lng": 33.634297
+    }
+  },
+  {
+    "city": "Çankırı",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ÇAN-03",
+    "location": {
+      "lat": 40.618953,
+      "lng": 33.595679
+    }
+  },
+  {
+    "city": "Çankırı",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ÇAN-04",
+    "location": {
+      "lat": 40.573836,
+      "lng": 33.593342
+    }
+  },
+  {
+    "city": "Çankırı",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ÇAN-05",
+    "location": {
+      "lat": 40.603848,
+      "lng": 33.616443
+    }
+  },
+  {
+    "city": "Çankırı",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ÇAN-06",
+    "location": {
+      "lat": 40.601305,
+      "lng": 33.606628
+    }
+  },
+  {
+    "city": "Çankırı",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ÇAN-07",
+    "location": {
+      "lat": 40.568876,
+      "lng": 33.568874
+    }
+  },
+  {
+    "city": "Çankırı",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ÇAN-08",
+    "location": {
+      "lat": 40.628085,
+      "lng": 33.577013
+    }
+  },
+  {
+    "city": "Çankırı",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ÇAN-09",
+    "location": {
+      "lat": 40.633497,
+      "lng": 33.634163
+    }
+  },
+  {
+    "city": "Çankırı",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ÇAN-10",
+    "location": {
+      "lat": 40.567538,
+      "lng": 33.646283
+    }
+  },
+  {
+    "city": "Çorum",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ÇOR-01",
+    "location": {
+      "lat": 40.583821,
+      "lng": 34.913259
+    }
+  },
+  {
+    "city": "Çorum",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ÇOR-02",
+    "location": {
+      "lat": 40.503085,
+      "lng": 34.920561
+    }
+  },
+  {
+    "city": "Çorum",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ÇOR-03",
+    "location": {
+      "lat": 40.533853,
+      "lng": 34.900152
+    }
+  },
+  {
+    "city": "Çorum",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ÇOR-04",
+    "location": {
+      "lat": 40.577699,
+      "lng": 34.915567
+    }
+  },
+  {
+    "city": "Çorum",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ÇOR-05",
+    "location": {
+      "lat": 40.591635,
+      "lng": 34.980568
+    }
+  },
+  {
+    "city": "Çorum",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ÇOR-06",
+    "location": {
+      "lat": 40.574695,
+      "lng": 34.940114
+    }
+  },
+  {
+    "city": "Çorum",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ÇOR-07",
+    "location": {
+      "lat": 40.559607,
+      "lng": 34.942351
+    }
+  },
+  {
+    "city": "Çorum",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ÇOR-08",
+    "location": {
+      "lat": 40.525822,
+      "lng": 34.905377
+    }
+  },
+  {
+    "city": "Çorum",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ÇOR-09",
+    "location": {
+      "lat": 40.586636,
+      "lng": 34.997253
+    }
+  },
+  {
+    "city": "Çorum",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ÇOR-10",
+    "location": {
+      "lat": 40.597498,
+      "lng": 34.963982
+    }
+  },
+  {
+    "city": "Denizli",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "DEN-01",
+    "location": {
+      "lat": 37.802861,
+      "lng": 29.121235
+    }
+  },
+  {
+    "city": "Denizli",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "DEN-02",
+    "location": {
+      "lat": 37.726816,
+      "lng": 29.09895
+    }
+  },
+  {
+    "city": "Denizli",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "DEN-03",
+    "location": {
+      "lat": 37.777575,
+      "lng": 29.111386
+    }
+  },
+  {
+    "city": "Denizli",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "DEN-04",
+    "location": {
+      "lat": 37.76823,
+      "lng": 29.119366
+    }
+  },
+  {
+    "city": "Denizli",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "DEN-05",
+    "location": {
+      "lat": 37.760642,
+      "lng": 29.076373
+    }
+  },
+  {
+    "city": "Denizli",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "DEN-06",
+    "location": {
+      "lat": 37.764318,
+      "lng": 29.089799
+    }
+  },
+  {
+    "city": "Denizli",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "DEN-07",
+    "location": {
+      "lat": 37.744366,
+      "lng": 29.126248
+    }
+  },
+  {
+    "city": "Denizli",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "DEN-08",
+    "location": {
+      "lat": 37.742043,
+      "lng": 29.072932
+    }
+  },
+  {
+    "city": "Denizli",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "DEN-09",
+    "location": {
+      "lat": 37.809724,
+      "lng": 29.057242
+    }
+  },
+  {
+    "city": "Denizli",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "DEN-10",
+    "location": {
+      "lat": 37.804749,
+      "lng": 29.046176
+    }
+  },
+  {
+    "city": "Diyarbakır",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "DIY-01",
+    "location": {
+      "lat": 37.947701,
+      "lng": 40.263507
+    }
+  },
+  {
+    "city": "Diyarbakır",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "DIY-02",
+    "location": {
+      "lat": 37.87627,
+      "lng": 40.210294
+    }
+  },
+  {
+    "city": "Diyarbakır",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "DIY-03",
+    "location": {
+      "lat": 37.896932,
+      "lng": 40.257782
+    }
+  },
+  {
+    "city": "Diyarbakır",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "DIY-04",
+    "location": {
+      "lat": 37.905437,
+      "lng": 40.214168
+    }
+  },
+  {
+    "city": "Diyarbakır",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "DIY-05",
+    "location": {
+      "lat": 37.891138,
+      "lng": 40.272868
+    }
+  },
+  {
+    "city": "Diyarbakır",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "DIY-06",
+    "location": {
+      "lat": 37.933963,
+      "lng": 40.193363
+    }
+  },
+  {
+    "city": "Diyarbakır",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "DIY-07",
+    "location": {
+      "lat": 37.925079,
+      "lng": 40.235073
+    }
+  },
+  {
+    "city": "Diyarbakır",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "DIY-08",
+    "location": {
+      "lat": 37.914938,
+      "lng": 40.24325
+    }
+  },
+  {
+    "city": "Diyarbakır",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "DIY-09",
+    "location": {
+      "lat": 37.898342,
+      "lng": 40.197214
+    }
+  },
+  {
+    "city": "Diyarbakır",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "DIY-10",
+    "location": {
+      "lat": 37.862849,
+      "lng": 40.192936
+    }
+  },
+  {
+    "city": "Düzce",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "DÜZ-01",
+    "location": {
+      "lat": 40.833709,
+      "lng": 31.123806
+    }
+  },
+  {
+    "city": "Düzce",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "DÜZ-02",
+    "location": {
+      "lat": 40.808092,
+      "lng": 31.176881
+    }
+  },
+  {
+    "city": "Düzce",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "DÜZ-03",
+    "location": {
+      "lat": 40.883815,
+      "lng": 31.136962
+    }
+  },
+  {
+    "city": "Düzce",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "DÜZ-04",
+    "location": {
+      "lat": 40.866908,
+      "lng": 31.167133
+    }
+  },
+  {
+    "city": "Düzce",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "DÜZ-05",
+    "location": {
+      "lat": 40.826965,
+      "lng": 31.177238
+    }
+  },
+  {
+    "city": "Düzce",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "DÜZ-06",
+    "location": {
+      "lat": 40.80268,
+      "lng": 31.16304
+    }
+  },
+  {
+    "city": "Düzce",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "DÜZ-07",
+    "location": {
+      "lat": 40.84691,
+      "lng": 31.169689
+    }
+  },
+  {
+    "city": "Düzce",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "DÜZ-08",
+    "location": {
+      "lat": 40.879173,
+      "lng": 31.164521
+    }
+  },
+  {
+    "city": "Düzce",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "DÜZ-09",
+    "location": {
+      "lat": 40.885228,
+      "lng": 31.162581
+    }
+  },
+  {
+    "city": "Düzce",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "DÜZ-10",
+    "location": {
+      "lat": 40.87456,
+      "lng": 31.190817
+    }
+  },
+  {
+    "city": "Edirne",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "EDI-01",
+    "location": {
+      "lat": 41.653924,
+      "lng": 26.563947
+    }
+  },
+  {
+    "city": "Edirne",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "EDI-02",
+    "location": {
+      "lat": 41.703333,
+      "lng": 26.569725
+    }
+  },
+  {
+    "city": "Edirne",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "EDI-03",
+    "location": {
+      "lat": 41.625099,
+      "lng": 26.519549
+    }
+  },
+  {
+    "city": "Edirne",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "EDI-04",
+    "location": {
+      "lat": 41.658592,
+      "lng": 26.519181
+    }
+  },
+  {
+    "city": "Edirne",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "EDI-05",
+    "location": {
+      "lat": 41.718509,
+      "lng": 26.515738
+    }
+  },
+  {
+    "city": "Edirne",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "EDI-06",
+    "location": {
+      "lat": 41.677449,
+      "lng": 26.561487
+    }
+  },
+  {
+    "city": "Edirne",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "EDI-07",
+    "location": {
+      "lat": 41.667121,
+      "lng": 26.581539
+    }
+  },
+  {
+    "city": "Edirne",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "EDI-08",
+    "location": {
+      "lat": 41.627797,
+      "lng": 26.591836
+    }
+  },
+  {
+    "city": "Edirne",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "EDI-09",
+    "location": {
+      "lat": 41.623358,
+      "lng": 26.605565
+    }
+  },
+  {
+    "city": "Edirne",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "EDI-10",
+    "location": {
+      "lat": 41.625057,
+      "lng": 26.542314
+    }
+  },
+  {
+    "city": "Elazığ",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ELA-01",
+    "location": {
+      "lat": 38.700169,
+      "lng": 39.2567
+    }
+  },
+  {
+    "city": "Elazığ",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ELA-02",
+    "location": {
+      "lat": 38.690457,
+      "lng": 39.207278
+    }
+  },
+  {
+    "city": "Elazığ",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ELA-03",
+    "location": {
+      "lat": 38.695019,
+      "lng": 39.260655
+    }
+  },
+  {
+    "city": "Elazığ",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ELA-04",
+    "location": {
+      "lat": 38.662869,
+      "lng": 39.232071
+    }
+  },
+  {
+    "city": "Elazığ",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ELA-05",
+    "location": {
+      "lat": 38.703459,
+      "lng": 39.259982
+    }
+  },
+  {
+    "city": "Elazığ",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ELA-06",
+    "location": {
+      "lat": 38.62001,
+      "lng": 39.262293
+    }
+  },
+  {
+    "city": "Elazığ",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ELA-07",
+    "location": {
+      "lat": 38.719567,
+      "lng": 39.187652
+    }
+  },
+  {
+    "city": "Elazığ",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ELA-08",
+    "location": {
+      "lat": 38.650793,
+      "lng": 39.257549
+    }
+  },
+  {
+    "city": "Elazığ",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ELA-09",
+    "location": {
+      "lat": 38.653076,
+      "lng": 39.182603
+    }
+  },
+  {
+    "city": "Elazığ",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ELA-10",
+    "location": {
+      "lat": 38.690048,
+      "lng": 39.242745
+    }
+  },
+  {
+    "city": "Erzincan",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ERZ-01",
+    "location": {
+      "lat": 39.720189,
+      "lng": 39.495972
+    }
+  },
+  {
+    "city": "Erzincan",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ERZ-02",
+    "location": {
+      "lat": 39.7238,
+      "lng": 39.517163
+    }
+  },
+  {
+    "city": "Erzincan",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ERZ-03",
+    "location": {
+      "lat": 39.785351,
+      "lng": 39.512388
+    }
+  },
+  {
+    "city": "Erzincan",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ERZ-04",
+    "location": {
+      "lat": 39.728731,
+      "lng": 39.540744
+    }
+  },
+  {
+    "city": "Erzincan",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ERZ-05",
+    "location": {
+      "lat": 39.79736,
+      "lng": 39.517721
+    }
+  },
+  {
+    "city": "Erzincan",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ERZ-06",
+    "location": {
+      "lat": 39.730959,
+      "lng": 39.474873
+    }
+  },
+  {
+    "city": "Erzincan",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ERZ-07",
+    "location": {
+      "lat": 39.700417,
+      "lng": 39.522011
+    }
+  },
+  {
+    "city": "Erzincan",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ERZ-08",
+    "location": {
+      "lat": 39.727703,
+      "lng": 39.480942
+    }
+  },
+  {
+    "city": "Erzincan",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ERZ-09",
+    "location": {
+      "lat": 39.719429,
+      "lng": 39.484294
+    }
+  },
+  {
+    "city": "Erzincan",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ERZ-10",
+    "location": {
+      "lat": 39.757168,
+      "lng": 39.461439
+    }
+  },
+  {
+    "city": "Erzurum",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ERZ-01",
+    "location": {
+      "lat": 39.877368,
+      "lng": 41.244467
+    }
+  },
+  {
+    "city": "Erzurum",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ERZ-02",
+    "location": {
+      "lat": 39.893273,
+      "lng": 41.283979
+    }
+  },
+  {
+    "city": "Erzurum",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ERZ-03",
+    "location": {
+      "lat": 39.868488,
+      "lng": 41.287135
+    }
+  },
+  {
+    "city": "Erzurum",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ERZ-04",
+    "location": {
+      "lat": 39.943484,
+      "lng": 41.301119
+    }
+  },
+  {
+    "city": "Erzurum",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ERZ-05",
+    "location": {
+      "lat": 39.918878,
+      "lng": 41.291191
+    }
+  },
+  {
+    "city": "Erzurum",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ERZ-06",
+    "location": {
+      "lat": 39.882031,
+      "lng": 41.261686
+    }
+  },
+  {
+    "city": "Erzurum",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ERZ-07",
+    "location": {
+      "lat": 39.884325,
+      "lng": 41.308774
+    }
+  },
+  {
+    "city": "Erzurum",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ERZ-08",
+    "location": {
+      "lat": 39.931493,
+      "lng": 41.306103
+    }
+  },
+  {
+    "city": "Erzurum",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ERZ-09",
+    "location": {
+      "lat": 39.905482,
+      "lng": 41.255576
+    }
+  },
+  {
+    "city": "Erzurum",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ERZ-10",
+    "location": {
+      "lat": 39.891822,
+      "lng": 41.313122
+    }
+  },
+  {
+    "city": "Eskişehir",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ESK-01",
+    "location": {
+      "lat": 39.758211,
+      "lng": 30.482769
+    }
+  },
+  {
+    "city": "Eskişehir",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ESK-02",
+    "location": {
+      "lat": 39.765507,
+      "lng": 30.543364
+    }
+  },
+  {
+    "city": "Eskişehir",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ESK-03",
+    "location": {
+      "lat": 39.740612,
+      "lng": 30.478225
+    }
+  },
+  {
+    "city": "Eskişehir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ESK-04",
+    "location": {
+      "lat": 39.755422,
+      "lng": 30.506648
+    }
+  },
+  {
+    "city": "Eskişehir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ESK-05",
+    "location": {
+      "lat": 39.762836,
+      "lng": 30.561878
+    }
+  },
+  {
+    "city": "Eskişehir",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ESK-06",
+    "location": {
+      "lat": 39.783637,
+      "lng": 30.509893
+    }
+  },
+  {
+    "city": "Eskişehir",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ESK-07",
+    "location": {
+      "lat": 39.741994,
+      "lng": 30.511653
+    }
+  },
+  {
+    "city": "Eskişehir",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ESK-08",
+    "location": {
+      "lat": 39.809831,
+      "lng": 30.487581
+    }
+  },
+  {
+    "city": "Eskişehir",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ESK-09",
+    "location": {
+      "lat": 39.800141,
+      "lng": 30.568749
+    }
+  },
+  {
+    "city": "Eskişehir",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ESK-10",
+    "location": {
+      "lat": 39.822054,
+      "lng": 30.481473
+    }
+  },
+  {
+    "city": "Gaziantep",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "GAZ-01",
+    "location": {
+      "lat": 37.038694,
+      "lng": 37.353199
+    }
+  },
+  {
+    "city": "Gaziantep",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "GAZ-02",
+    "location": {
+      "lat": 37.085784,
+      "lng": 37.414525
+    }
+  },
+  {
+    "city": "Gaziantep",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "GAZ-03",
+    "location": {
+      "lat": 37.077556,
+      "lng": 37.418925
+    }
+  },
+  {
+    "city": "Gaziantep",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "GAZ-04",
+    "location": {
+      "lat": 37.021641,
+      "lng": 37.338935
+    }
+  },
+  {
+    "city": "Gaziantep",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "GAZ-05",
+    "location": {
+      "lat": 37.089737,
+      "lng": 37.343657
+    }
+  },
+  {
+    "city": "Gaziantep",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "GAZ-06",
+    "location": {
+      "lat": 37.047445,
+      "lng": 37.362725
+    }
+  },
+  {
+    "city": "Gaziantep",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "GAZ-07",
+    "location": {
+      "lat": 37.017561,
+      "lng": 37.356666
+    }
+  },
+  {
+    "city": "Gaziantep",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "GAZ-08",
+    "location": {
+      "lat": 37.085867,
+      "lng": 37.394209
+    }
+  },
+  {
+    "city": "Gaziantep",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "GAZ-09",
+    "location": {
+      "lat": 37.079759,
+      "lng": 37.371449
+    }
+  },
+  {
+    "city": "Gaziantep",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "GAZ-10",
+    "location": {
+      "lat": 37.036716,
+      "lng": 37.396012
+    }
+  },
+  {
+    "city": "Giresun",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "GIR-01",
+    "location": {
+      "lat": 40.937809,
+      "lng": 38.432941
+    }
+  },
+  {
+    "city": "Giresun",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "GIR-02",
+    "location": {
+      "lat": 40.912091,
+      "lng": 38.402113
+    }
+  },
+  {
+    "city": "Giresun",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "GIR-03",
+    "location": {
+      "lat": 40.907492,
+      "lng": 38.378615
+    }
+  },
+  {
+    "city": "Giresun",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "GIR-04",
+    "location": {
+      "lat": 40.902109,
+      "lng": 38.432611
+    }
+  },
+  {
+    "city": "Giresun",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "GIR-05",
+    "location": {
+      "lat": 40.933907,
+      "lng": 38.371752
+    }
+  },
+  {
+    "city": "Giresun",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "GIR-06",
+    "location": {
+      "lat": 40.907293,
+      "lng": 38.367508
+    }
+  },
+  {
+    "city": "Giresun",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "GIR-07",
+    "location": {
+      "lat": 40.955962,
+      "lng": 38.415071
+    }
+  },
+  {
+    "city": "Giresun",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "GIR-08",
+    "location": {
+      "lat": 40.902198,
+      "lng": 38.382269
+    }
+  },
+  {
+    "city": "Giresun",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "GIR-09",
+    "location": {
+      "lat": 40.877918,
+      "lng": 38.421362
+    }
+  },
+  {
+    "city": "Giresun",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "GIR-10",
+    "location": {
+      "lat": 40.935672,
+      "lng": 38.342603
+    }
+  },
+  {
+    "city": "Gümüşhane",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "GÜM-01",
+    "location": {
+      "lat": 40.487933,
+      "lng": 39.503509
+    }
+  },
+  {
+    "city": "Gümüşhane",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "GÜM-02",
+    "location": {
+      "lat": 40.450467,
+      "lng": 39.460194
+    }
+  },
+  {
+    "city": "Gümüşhane",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "GÜM-03",
+    "location": {
+      "lat": 40.454641,
+      "lng": 39.445896
+    }
+  },
+  {
+    "city": "Gümüşhane",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "GÜM-04",
+    "location": {
+      "lat": 40.464066,
+      "lng": 39.444066
+    }
+  },
+  {
+    "city": "Gümüşhane",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "GÜM-05",
+    "location": {
+      "lat": 40.467102,
+      "lng": 39.524288
+    }
+  },
+  {
+    "city": "Gümüşhane",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "GÜM-06",
+    "location": {
+      "lat": 40.452914,
+      "lng": 39.499416
+    }
+  },
+  {
+    "city": "Gümüşhane",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "GÜM-07",
+    "location": {
+      "lat": 40.457167,
+      "lng": 39.453184
+    }
+  },
+  {
+    "city": "Gümüşhane",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "GÜM-08",
+    "location": {
+      "lat": 40.452359,
+      "lng": 39.522316
+    }
+  },
+  {
+    "city": "Gümüşhane",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "GÜM-09",
+    "location": {
+      "lat": 40.471296,
+      "lng": 39.506591
+    }
+  },
+  {
+    "city": "Gümüşhane",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "GÜM-10",
+    "location": {
+      "lat": 40.459549,
+      "lng": 39.49486
+    }
+  },
+  {
+    "city": "Hakkâri",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "HAK-01",
+    "location": {
+      "lat": 39.0,
+      "lng": 35.0
+    }
+  },
+  {
+    "city": "Hakkâri",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "HAK-02",
+    "location": {
+      "lat": 39.0,
+      "lng": 35.0
+    }
+  },
+  {
+    "city": "Hakkâri",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "HAK-03",
+    "location": {
+      "lat": 39.0,
+      "lng": 35.0
+    }
+  },
+  {
+    "city": "Hakkâri",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "HAK-04",
+    "location": {
+      "lat": 39.0,
+      "lng": 35.0
+    }
+  },
+  {
+    "city": "Hakkâri",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "HAK-05",
+    "location": {
+      "lat": 39.0,
+      "lng": 35.0
+    }
+  },
+  {
+    "city": "Hakkâri",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "HAK-06",
+    "location": {
+      "lat": 39.0,
+      "lng": 35.0
+    }
+  },
+  {
+    "city": "Hakkâri",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "HAK-07",
+    "location": {
+      "lat": 39.0,
+      "lng": 35.0
+    }
+  },
+  {
+    "city": "Hakkâri",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "HAK-08",
+    "location": {
+      "lat": 39.0,
+      "lng": 35.0
+    }
+  },
+  {
+    "city": "Hakkâri",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "HAK-09",
+    "location": {
+      "lat": 39.0,
+      "lng": 35.0
+    }
+  },
+  {
+    "city": "Hakkâri",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "HAK-10",
+    "location": {
+      "lat": 39.0,
+      "lng": 35.0
+    }
+  },
+  {
+    "city": "Hatay",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "HAT-01",
+    "location": {
+      "lat": 36.234479,
+      "lng": 36.139808
+    }
+  },
+  {
+    "city": "Hatay",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "HAT-02",
+    "location": {
+      "lat": 36.217204,
+      "lng": 36.154105
+    }
+  },
+  {
+    "city": "Hatay",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "HAT-03",
+    "location": {
+      "lat": 36.215809,
+      "lng": 36.16164
+    }
+  },
+  {
+    "city": "Hatay",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "HAT-04",
+    "location": {
+      "lat": 36.192556,
+      "lng": 36.135208
+    }
+  },
+  {
+    "city": "Hatay",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "HAT-05",
+    "location": {
+      "lat": 36.174589,
+      "lng": 36.174148
+    }
+  },
+  {
+    "city": "Hatay",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "HAT-06",
+    "location": {
+      "lat": 36.167718,
+      "lng": 36.158238
+    }
+  },
+  {
+    "city": "Hatay",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "HAT-07",
+    "location": {
+      "lat": 36.196589,
+      "lng": 36.12249
+    }
+  },
+  {
+    "city": "Hatay",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "HAT-08",
+    "location": {
+      "lat": 36.224069,
+      "lng": 36.169311
+    }
+  },
+  {
+    "city": "Hatay",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "HAT-09",
+    "location": {
+      "lat": 36.190919,
+      "lng": 36.112474
+    }
+  },
+  {
+    "city": "Hatay",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "HAT-10",
+    "location": {
+      "lat": 36.179082,
+      "lng": 36.155315
+    }
+  },
+  {
+    "city": "Iğdır",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "IĞD-01",
+    "location": {
+      "lat": 39.938482,
+      "lng": 44.058619
+    }
+  },
+  {
+    "city": "Iğdır",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "IĞD-02",
+    "location": {
+      "lat": 39.92224,
+      "lng": 44.075539
+    }
+  },
+  {
+    "city": "Iğdır",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "IĞD-03",
+    "location": {
+      "lat": 39.903588,
+      "lng": 44.080002
+    }
+  },
+  {
+    "city": "Iğdır",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "IĞD-04",
+    "location": {
+      "lat": 39.888263,
+      "lng": 44.081643
+    }
+  },
+  {
+    "city": "Iğdır",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "IĞD-05",
+    "location": {
+      "lat": 39.926017,
+      "lng": 44.005809
+    }
+  },
+  {
+    "city": "Iğdır",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "IĞD-06",
+    "location": {
+      "lat": 39.894827,
+      "lng": 44.024257
+    }
+  },
+  {
+    "city": "Iğdır",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "IĞD-07",
+    "location": {
+      "lat": 39.871612,
+      "lng": 44.085353
+    }
+  },
+  {
+    "city": "Iğdır",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "IĞD-08",
+    "location": {
+      "lat": 39.92413,
+      "lng": 44.053523
+    }
+  },
+  {
+    "city": "Iğdır",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "IĞD-09",
+    "location": {
+      "lat": 39.937928,
+      "lng": 44.051051
+    }
+  },
+  {
+    "city": "Iğdır",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "IĞD-10",
+    "location": {
+      "lat": 39.951185,
+      "lng": 44.068539
+    }
+  },
+  {
+    "city": "Isparta",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ISP-01",
+    "location": {
+      "lat": 37.807106,
+      "lng": 30.54643
+    }
+  },
+  {
+    "city": "Isparta",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ISP-02",
+    "location": {
+      "lat": 37.794485,
+      "lng": 30.535538
+    }
+  },
+  {
+    "city": "Isparta",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ISP-03",
+    "location": {
+      "lat": 37.787901,
+      "lng": 30.516813
+    }
+  },
+  {
+    "city": "Isparta",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ISP-04",
+    "location": {
+      "lat": 37.778714,
+      "lng": 30.506819
+    }
+  },
+  {
+    "city": "Isparta",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ISP-05",
+    "location": {
+      "lat": 37.798377,
+      "lng": 30.529658
+    }
+  },
+  {
+    "city": "Isparta",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ISP-06",
+    "location": {
+      "lat": 37.737206,
+      "lng": 30.571818
+    }
+  },
+  {
+    "city": "Isparta",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ISP-07",
+    "location": {
+      "lat": 37.771065,
+      "lng": 30.588266
+    }
+  },
+  {
+    "city": "Isparta",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ISP-08",
+    "location": {
+      "lat": 37.800234,
+      "lng": 30.525883
+    }
+  },
+  {
+    "city": "Isparta",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ISP-09",
+    "location": {
+      "lat": 37.793529,
+      "lng": 30.53817
+    }
+  },
+  {
+    "city": "Isparta",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ISP-10",
+    "location": {
+      "lat": 37.796558,
+      "lng": 30.568973
+    }
+  },
+  {
+    "city": "İstanbul",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "İST-01",
+    "location": {
+      "lat": 40.98985,
+      "lng": 28.946378
+    }
+  },
+  {
+    "city": "İstanbul",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "İST-02",
+    "location": {
+      "lat": 40.993343,
+      "lng": 28.963954
+    }
+  },
+  {
+    "city": "İstanbul",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "İST-03",
+    "location": {
+      "lat": 41.008726,
+      "lng": 28.956617
+    }
+  },
+  {
+    "city": "İstanbul",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "İST-04",
+    "location": {
+      "lat": 41.000883,
+      "lng": 28.955517
+    }
+  },
+  {
+    "city": "İstanbul",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "İST-05",
+    "location": {
+      "lat": 41.03239,
+      "lng": 28.923827
+    }
+  },
+  {
+    "city": "İstanbul",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "İST-06",
+    "location": {
+      "lat": 41.011694,
+      "lng": 28.928924
+    }
+  },
+  {
+    "city": "İstanbul",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "İST-07",
+    "location": {
+      "lat": 40.982821,
+      "lng": 29.013653
+    }
+  },
+  {
+    "city": "İstanbul",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "İST-08",
+    "location": {
+      "lat": 41.050159,
+      "lng": 28.98754
+    }
+  },
+  {
+    "city": "İstanbul",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "İST-09",
+    "location": {
+      "lat": 41.055695,
+      "lng": 28.928888
+    }
+  },
+  {
+    "city": "İstanbul",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "İST-10",
+    "location": {
+      "lat": 41.031768,
+      "lng": 29.011161
+    }
+  },
+  {
+    "city": "İzmir",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "İZM-01",
+    "location": {
+      "lat": 38.454164,
+      "lng": 27.121887
+    }
+  },
+  {
+    "city": "İzmir",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "İZM-02",
+    "location": {
+      "lat": 38.370142,
+      "lng": 27.156537
+    }
+  },
+  {
+    "city": "İzmir",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "İZM-03",
+    "location": {
+      "lat": 38.411979,
+      "lng": 27.107011
+    }
+  },
+  {
+    "city": "İzmir",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "İZM-04",
+    "location": {
+      "lat": 38.389727,
+      "lng": 27.163249
+    }
+  },
+  {
+    "city": "İzmir",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "İZM-05",
+    "location": {
+      "lat": 38.424969,
+      "lng": 27.123433
+    }
+  },
+  {
+    "city": "İzmir",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "İZM-06",
+    "location": {
+      "lat": 38.44347,
+      "lng": 27.137222
+    }
+  },
+  {
+    "city": "İzmir",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "İZM-07",
+    "location": {
+      "lat": 38.398845,
+      "lng": 27.13708
+    }
+  },
+  {
+    "city": "İzmir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "İZM-08",
+    "location": {
+      "lat": 38.455297,
+      "lng": 27.187705
+    }
+  },
+  {
+    "city": "İzmir",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "İZM-09",
+    "location": {
+      "lat": 38.461131,
+      "lng": 27.150285
+    }
+  },
+  {
+    "city": "İzmir",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "İZM-10",
+    "location": {
+      "lat": 38.414153,
+      "lng": 27.173798
+    }
+  },
+  {
+    "city": "Kahramanmaraş",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KAH-01",
+    "location": {
+      "lat": 37.538963,
+      "lng": 36.895367
+    }
+  },
+  {
+    "city": "Kahramanmaraş",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KAH-02",
+    "location": {
+      "lat": 37.61245,
+      "lng": 36.887243
+    }
+  },
+  {
+    "city": "Kahramanmaraş",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KAH-03",
+    "location": {
+      "lat": 37.603338,
+      "lng": 36.930914
+    }
+  },
+  {
+    "city": "Kahramanmaraş",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "KAH-04",
+    "location": {
+      "lat": 37.529164,
+      "lng": 36.946023
+    }
+  },
+  {
+    "city": "Kahramanmaraş",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KAH-05",
+    "location": {
+      "lat": 37.530586,
+      "lng": 36.958822
+    }
+  },
+  {
+    "city": "Kahramanmaraş",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KAH-06",
+    "location": {
+      "lat": 37.523324,
+      "lng": 36.880543
+    }
+  },
+  {
+    "city": "Kahramanmaraş",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "KAH-07",
+    "location": {
+      "lat": 37.563969,
+      "lng": 36.929495
+    }
+  },
+  {
+    "city": "Kahramanmaraş",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KAH-08",
+    "location": {
+      "lat": 37.556723,
+      "lng": 36.912708
+    }
+  },
+  {
+    "city": "Kahramanmaraş",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KAH-09",
+    "location": {
+      "lat": 37.57601,
+      "lng": 36.892874
+    }
+  },
+  {
+    "city": "Kahramanmaraş",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KAH-10",
+    "location": {
+      "lat": 37.559711,
+      "lng": 36.888112
+    }
+  },
+  {
+    "city": "Karabük",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KAR-01",
+    "location": {
+      "lat": 41.18999,
+      "lng": 32.59499
+    }
+  },
+  {
+    "city": "Karabük",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KAR-02",
+    "location": {
+      "lat": 41.179388,
+      "lng": 32.585229
+    }
+  },
+  {
+    "city": "Karabük",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "KAR-03",
+    "location": {
+      "lat": 41.206697,
+      "lng": 32.604266
+    }
+  },
+  {
+    "city": "Karabük",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KAR-04",
+    "location": {
+      "lat": 41.232968,
+      "lng": 32.635957
+    }
+  },
+  {
+    "city": "Karabük",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KAR-05",
+    "location": {
+      "lat": 41.159971,
+      "lng": 32.649693
+    }
+  },
+  {
+    "city": "Karabük",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "KAR-06",
+    "location": {
+      "lat": 41.238188,
+      "lng": 32.675432
+    }
+  },
+  {
+    "city": "Karabük",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KAR-07",
+    "location": {
+      "lat": 41.161999,
+      "lng": 32.647949
+    }
+  },
+  {
+    "city": "Karabük",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KAR-08",
+    "location": {
+      "lat": 41.212125,
+      "lng": 32.66571
+    }
+  },
+  {
+    "city": "Karabük",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KAR-09",
+    "location": {
+      "lat": 41.152916,
+      "lng": 32.648454
+    }
+  },
+  {
+    "city": "Karabük",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KAR-10",
+    "location": {
+      "lat": 41.199436,
+      "lng": 32.648395
+    }
+  },
+  {
+    "city": "Karaman",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KAR-01",
+    "location": {
+      "lat": 37.219773,
+      "lng": 33.19907
+    }
+  },
+  {
+    "city": "Karaman",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KAR-02",
+    "location": {
+      "lat": 37.158349,
+      "lng": 33.195401
+    }
+  },
+  {
+    "city": "Karaman",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KAR-03",
+    "location": {
+      "lat": 37.201648,
+      "lng": 33.171531
+    }
+  },
+  {
+    "city": "Karaman",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KAR-04",
+    "location": {
+      "lat": 37.207526,
+      "lng": 33.239631
+    }
+  },
+  {
+    "city": "Karaman",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KAR-05",
+    "location": {
+      "lat": 37.213618,
+      "lng": 33.205694
+    }
+  },
+  {
+    "city": "Karaman",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "KAR-06",
+    "location": {
+      "lat": 37.220936,
+      "lng": 33.255448
+    }
+  },
+  {
+    "city": "Karaman",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KAR-07",
+    "location": {
+      "lat": 37.227936,
+      "lng": 33.247361
+    }
+  },
+  {
+    "city": "Karaman",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "KAR-08",
+    "location": {
+      "lat": 37.14713,
+      "lng": 33.179873
+    }
+  },
+  {
+    "city": "Karaman",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KAR-09",
+    "location": {
+      "lat": 37.188569,
+      "lng": 33.217959
+    }
+  },
+  {
+    "city": "Karaman",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KAR-10",
+    "location": {
+      "lat": 37.159231,
+      "lng": 33.179487
+    }
+  },
+  {
+    "city": "Kars",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "KAR-01",
+    "location": {
+      "lat": 40.611804,
+      "lng": 43.13468
+    }
+  },
+  {
+    "city": "Kars",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KAR-02",
+    "location": {
+      "lat": 40.649211,
+      "lng": 43.094917
+    }
+  },
+  {
+    "city": "Kars",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KAR-03",
+    "location": {
+      "lat": 40.597265,
+      "lng": 43.076427
+    }
+  },
+  {
+    "city": "Kars",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KAR-04",
+    "location": {
+      "lat": 40.562512,
+      "lng": 43.123721
+    }
+  },
+  {
+    "city": "Kars",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KAR-05",
+    "location": {
+      "lat": 40.643054,
+      "lng": 43.140618
+    }
+  },
+  {
+    "city": "Kars",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KAR-06",
+    "location": {
+      "lat": 40.613589,
+      "lng": 43.090437
+    }
+  },
+  {
+    "city": "Kars",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KAR-07",
+    "location": {
+      "lat": 40.642684,
+      "lng": 43.071473
+    }
+  },
+  {
+    "city": "Kars",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KAR-08",
+    "location": {
+      "lat": 40.617705,
+      "lng": 43.071651
+    }
+  },
+  {
+    "city": "Kars",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KAR-09",
+    "location": {
+      "lat": 40.589605,
+      "lng": 43.0527
+    }
+  },
+  {
+    "city": "Kars",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "KAR-10",
+    "location": {
+      "lat": 40.602999,
+      "lng": 43.071613
+    }
+  },
+  {
+    "city": "Kastamonu",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KAS-01",
+    "location": {
+      "lat": 41.424719,
+      "lng": 33.814622
+    }
+  },
+  {
+    "city": "Kastamonu",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KAS-02",
+    "location": {
+      "lat": 41.395807,
+      "lng": 33.798964
+    }
+  },
+  {
+    "city": "Kastamonu",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KAS-03",
+    "location": {
+      "lat": 41.438559,
+      "lng": 33.816912
+    }
+  },
+  {
+    "city": "Kastamonu",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "KAS-04",
+    "location": {
+      "lat": 41.379192,
+      "lng": 33.824053
+    }
+  },
+  {
+    "city": "Kastamonu",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KAS-05",
+    "location": {
+      "lat": 41.367213,
+      "lng": 33.827543
+    }
+  },
+  {
+    "city": "Kastamonu",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KAS-06",
+    "location": {
+      "lat": 41.43881,
+      "lng": 33.743476
+    }
+  },
+  {
+    "city": "Kastamonu",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KAS-07",
+    "location": {
+      "lat": 41.347977,
+      "lng": 33.802712
+    }
+  },
+  {
+    "city": "Kastamonu",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KAS-08",
+    "location": {
+      "lat": 41.373937,
+      "lng": 33.811008
+    }
+  },
+  {
+    "city": "Kastamonu",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KAS-09",
+    "location": {
+      "lat": 41.43776,
+      "lng": 33.817096
+    }
+  },
+  {
+    "city": "Kastamonu",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "KAS-10",
+    "location": {
+      "lat": 41.395467,
+      "lng": 33.792201
+    }
+  },
+  {
+    "city": "Kayseri",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "KAY-01",
+    "location": {
+      "lat": 38.726157,
+      "lng": 35.488675
+    }
+  },
+  {
+    "city": "Kayseri",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KAY-02",
+    "location": {
+      "lat": 38.690793,
+      "lng": 35.463126
+    }
+  },
+  {
+    "city": "Kayseri",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KAY-03",
+    "location": {
+      "lat": 38.749459,
+      "lng": 35.506803
+    }
+  },
+  {
+    "city": "Kayseri",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KAY-04",
+    "location": {
+      "lat": 38.737346,
+      "lng": 35.470594
+    }
+  },
+  {
+    "city": "Kayseri",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KAY-05",
+    "location": {
+      "lat": 38.692965,
+      "lng": 35.43807
+    }
+  },
+  {
+    "city": "Kayseri",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KAY-06",
+    "location": {
+      "lat": 38.709449,
+      "lng": 35.43462
+    }
+  },
+  {
+    "city": "Kayseri",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KAY-07",
+    "location": {
+      "lat": 38.754253,
+      "lng": 35.502046
+    }
+  },
+  {
+    "city": "Kayseri",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KAY-08",
+    "location": {
+      "lat": 38.74593,
+      "lng": 35.524946
+    }
+  },
+  {
+    "city": "Kayseri",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KAY-09",
+    "location": {
+      "lat": 38.762211,
+      "lng": 35.459583
+    }
+  },
+  {
+    "city": "Kayseri",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "KAY-10",
+    "location": {
+      "lat": 38.685791,
+      "lng": 35.471801
+    }
+  },
+  {
+    "city": "Kırıkkale",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "KIR-01",
+    "location": {
+      "lat": 39.836001,
+      "lng": 33.498421
+    }
+  },
+  {
+    "city": "Kırıkkale",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "KIR-02",
+    "location": {
+      "lat": 39.868022,
+      "lng": 33.544013
+    }
+  },
+  {
+    "city": "Kırıkkale",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KIR-03",
+    "location": {
+      "lat": 39.888182,
+      "lng": 33.486394
+    }
+  },
+  {
+    "city": "Kırıkkale",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KIR-04",
+    "location": {
+      "lat": 39.843826,
+      "lng": 33.463572
+    }
+  },
+  {
+    "city": "Kırıkkale",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "KIR-05",
+    "location": {
+      "lat": 39.83353,
+      "lng": 33.558748
+    }
+  },
+  {
+    "city": "Kırıkkale",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KIR-06",
+    "location": {
+      "lat": 39.792039,
+      "lng": 33.476351
+    }
+  },
+  {
+    "city": "Kırıkkale",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "KIR-07",
+    "location": {
+      "lat": 39.8803,
+      "lng": 33.513048
+    }
+  },
+  {
+    "city": "Kırıkkale",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KIR-08",
+    "location": {
+      "lat": 39.859048,
+      "lng": 33.508982
+    }
+  },
+  {
+    "city": "Kırıkkale",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KIR-09",
+    "location": {
+      "lat": 39.806406,
+      "lng": 33.479822
+    }
+  },
+  {
+    "city": "Kırıkkale",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KIR-10",
+    "location": {
+      "lat": 39.79815,
+      "lng": 33.50454
+    }
+  },
+  {
+    "city": "Kırklareli",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "KIR-01",
+    "location": {
+      "lat": 41.774013,
+      "lng": 27.232985
+    }
+  },
+  {
+    "city": "Kırklareli",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KIR-02",
+    "location": {
+      "lat": 41.695449,
+      "lng": 27.236387
+    }
+  },
+  {
+    "city": "Kırklareli",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KIR-03",
+    "location": {
+      "lat": 41.759923,
+      "lng": 27.244098
+    }
+  },
+  {
+    "city": "Kırklareli",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KIR-04",
+    "location": {
+      "lat": 41.691135,
+      "lng": 27.220769
+    }
+  },
+  {
+    "city": "Kırklareli",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KIR-05",
+    "location": {
+      "lat": 41.713544,
+      "lng": 27.229616
+    }
+  },
+  {
+    "city": "Kırklareli",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KIR-06",
+    "location": {
+      "lat": 41.754487,
+      "lng": 27.222457
+    }
+  },
+  {
+    "city": "Kırklareli",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KIR-07",
+    "location": {
+      "lat": 41.725658,
+      "lng": 27.216277
+    }
+  },
+  {
+    "city": "Kırklareli",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KIR-08",
+    "location": {
+      "lat": 41.772494,
+      "lng": 27.23413
+    }
+  },
+  {
+    "city": "Kırklareli",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KIR-09",
+    "location": {
+      "lat": 41.694038,
+      "lng": 27.187778
+    }
+  },
+  {
+    "city": "Kırklareli",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "KIR-10",
+    "location": {
+      "lat": 41.772995,
+      "lng": 27.253977
+    }
+  },
+  {
+    "city": "Kırşehir",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KIR-01",
+    "location": {
+      "lat": 39.147993,
+      "lng": 34.20167
+    }
+  },
+  {
+    "city": "Kırşehir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "KIR-02",
+    "location": {
+      "lat": 39.147855,
+      "lng": 34.126724
+    }
+  },
+  {
+    "city": "Kırşehir",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KIR-03",
+    "location": {
+      "lat": 39.108842,
+      "lng": 34.139326
+    }
+  },
+  {
+    "city": "Kırşehir",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KIR-04",
+    "location": {
+      "lat": 39.143343,
+      "lng": 34.195179
+    }
+  },
+  {
+    "city": "Kırşehir",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KIR-05",
+    "location": {
+      "lat": 39.175085,
+      "lng": 34.168481
+    }
+  },
+  {
+    "city": "Kırşehir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "KIR-06",
+    "location": {
+      "lat": 39.17487,
+      "lng": 34.208
+    }
+  },
+  {
+    "city": "Kırşehir",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KIR-07",
+    "location": {
+      "lat": 39.171996,
+      "lng": 34.191578
+    }
+  },
+  {
+    "city": "Kırşehir",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KIR-08",
+    "location": {
+      "lat": 39.184611,
+      "lng": 34.209593
+    }
+  },
+  {
+    "city": "Kırşehir",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KIR-09",
+    "location": {
+      "lat": 39.189069,
+      "lng": 34.110101
+    }
+  },
+  {
+    "city": "Kırşehir",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KIR-10",
+    "location": {
+      "lat": 39.18091,
+      "lng": 34.168643
+    }
+  },
+  {
+    "city": "Kilis",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KIL-01",
+    "location": {
+      "lat": 36.680991,
+      "lng": 37.158826
+    }
+  },
+  {
+    "city": "Kilis",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KIL-02",
+    "location": {
+      "lat": 36.749175,
+      "lng": 37.162016
+    }
+  },
+  {
+    "city": "Kilis",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KIL-03",
+    "location": {
+      "lat": 36.715887,
+      "lng": 37.166577
+    }
+  },
+  {
+    "city": "Kilis",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "KIL-04",
+    "location": {
+      "lat": 36.718258,
+      "lng": 37.146374
+    }
+  },
+  {
+    "city": "Kilis",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KIL-05",
+    "location": {
+      "lat": 36.756466,
+      "lng": 37.149518
+    }
+  },
+  {
+    "city": "Kilis",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KIL-06",
+    "location": {
+      "lat": 36.677897,
+      "lng": 37.130201
+    }
+  },
+  {
+    "city": "Kilis",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KIL-07",
+    "location": {
+      "lat": 36.680605,
+      "lng": 37.110001
+    }
+  },
+  {
+    "city": "Kilis",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KIL-08",
+    "location": {
+      "lat": 36.710602,
+      "lng": 37.131441
+    }
+  },
+  {
+    "city": "Kilis",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KIL-09",
+    "location": {
+      "lat": 36.678484,
+      "lng": 37.078607
+    }
+  },
+  {
+    "city": "Kilis",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KIL-10",
+    "location": {
+      "lat": 36.718819,
+      "lng": 37.119265
+    }
+  },
+  {
+    "city": "Kocaeli",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "KOC-01",
+    "location": {
+      "lat": 40.790154,
+      "lng": 29.928522
+    }
+  },
+  {
+    "city": "Kocaeli",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "KOC-02",
+    "location": {
+      "lat": 40.773843,
+      "lng": 29.909119
+    }
+  },
+  {
+    "city": "Kocaeli",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KOC-03",
+    "location": {
+      "lat": 40.809229,
+      "lng": 29.958572
+    }
+  },
+  {
+    "city": "Kocaeli",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KOC-04",
+    "location": {
+      "lat": 40.756411,
+      "lng": 29.924482
+    }
+  },
+  {
+    "city": "Kocaeli",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "KOC-05",
+    "location": {
+      "lat": 40.713877,
+      "lng": 29.95443
+    }
+  },
+  {
+    "city": "Kocaeli",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "KOC-06",
+    "location": {
+      "lat": 40.714398,
+      "lng": 29.897116
+    }
+  },
+  {
+    "city": "Kocaeli",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KOC-07",
+    "location": {
+      "lat": 40.715695,
+      "lng": 29.953956
+    }
+  },
+  {
+    "city": "Kocaeli",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KOC-08",
+    "location": {
+      "lat": 40.74411,
+      "lng": 29.941234
+    }
+  },
+  {
+    "city": "Kocaeli",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "KOC-09",
+    "location": {
+      "lat": 40.7234,
+      "lng": 29.965419
+    }
+  },
+  {
+    "city": "Kocaeli",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "KOC-10",
+    "location": {
+      "lat": 40.719145,
+      "lng": 29.897487
+    }
+  },
+  {
+    "city": "Konya",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KON-01",
+    "location": {
+      "lat": 37.8358,
+      "lng": 32.447968
+    }
+  },
+  {
+    "city": "Konya",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KON-02",
+    "location": {
+      "lat": 37.824424,
+      "lng": 32.45534
+    }
+  },
+  {
+    "city": "Konya",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KON-03",
+    "location": {
+      "lat": 37.828331,
+      "lng": 32.440377
+    }
+  },
+  {
+    "city": "Konya",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KON-04",
+    "location": {
+      "lat": 37.917111,
+      "lng": 32.474256
+    }
+  },
+  {
+    "city": "Konya",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KON-05",
+    "location": {
+      "lat": 37.870387,
+      "lng": 32.491867
+    }
+  },
+  {
+    "city": "Konya",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "KON-06",
+    "location": {
+      "lat": 37.907284,
+      "lng": 32.481726
+    }
+  },
+  {
+    "city": "Konya",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KON-07",
+    "location": {
+      "lat": 37.886588,
+      "lng": 32.498048
+    }
+  },
+  {
+    "city": "Konya",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "KON-08",
+    "location": {
+      "lat": 37.900225,
+      "lng": 32.525642
+    }
+  },
+  {
+    "city": "Konya",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KON-09",
+    "location": {
+      "lat": 37.872373,
+      "lng": 32.48252
+    }
+  },
+  {
+    "city": "Konya",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KON-10",
+    "location": {
+      "lat": 37.899617,
+      "lng": 32.441503
+    }
+  },
+  {
+    "city": "Kütahya",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KÜT-01",
+    "location": {
+      "lat": 39.455887,
+      "lng": 29.986969
+    }
+  },
+  {
+    "city": "Kütahya",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "KÜT-02",
+    "location": {
+      "lat": 39.453894,
+      "lng": 29.95454
+    }
+  },
+  {
+    "city": "Kütahya",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "KÜT-03",
+    "location": {
+      "lat": 39.450194,
+      "lng": 29.939196
+    }
+  },
+  {
+    "city": "Kütahya",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "KÜT-04",
+    "location": {
+      "lat": 39.409241,
+      "lng": 30.013126
+    }
+  },
+  {
+    "city": "Kütahya",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "KÜT-05",
+    "location": {
+      "lat": 39.446711,
+      "lng": 29.993712
+    }
+  },
+  {
+    "city": "Kütahya",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KÜT-06",
+    "location": {
+      "lat": 39.452664,
+      "lng": 29.980557
+    }
+  },
+  {
+    "city": "Kütahya",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "KÜT-07",
+    "location": {
+      "lat": 39.421793,
+      "lng": 29.945821
+    }
+  },
+  {
+    "city": "Kütahya",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "KÜT-08",
+    "location": {
+      "lat": 39.421851,
+      "lng": 29.987413
+    }
+  },
+  {
+    "city": "Kütahya",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "KÜT-09",
+    "location": {
+      "lat": 39.467952,
+      "lng": 29.993309
+    }
+  },
+  {
+    "city": "Kütahya",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "KÜT-10",
+    "location": {
+      "lat": 39.390333,
+      "lng": 29.942834
+    }
+  },
+  {
+    "city": "Malatya",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "MAL-01",
+    "location": {
+      "lat": 38.361516,
+      "lng": 38.292793
+    }
+  },
+  {
+    "city": "Malatya",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "MAL-02",
+    "location": {
+      "lat": 38.341128,
+      "lng": 38.338459
+    }
+  },
+  {
+    "city": "Malatya",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "MAL-03",
+    "location": {
+      "lat": 38.332856,
+      "lng": 38.312372
+    }
+  },
+  {
+    "city": "Malatya",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "MAL-04",
+    "location": {
+      "lat": 38.382518,
+      "lng": 38.265112
+    }
+  },
+  {
+    "city": "Malatya",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "MAL-05",
+    "location": {
+      "lat": 38.373363,
+      "lng": 38.325372
+    }
+  },
+  {
+    "city": "Malatya",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "MAL-06",
+    "location": {
+      "lat": 38.314291,
+      "lng": 38.272748
+    }
+  },
+  {
+    "city": "Malatya",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "MAL-07",
+    "location": {
+      "lat": 38.37329,
+      "lng": 38.261308
+    }
+  },
+  {
+    "city": "Malatya",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "MAL-08",
+    "location": {
+      "lat": 38.341383,
+      "lng": 38.261145
+    }
+  },
+  {
+    "city": "Malatya",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "MAL-09",
+    "location": {
+      "lat": 38.346136,
+      "lng": 38.267113
+    }
+  },
+  {
+    "city": "Malatya",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "MAL-10",
+    "location": {
+      "lat": 38.32729,
+      "lng": 38.275352
+    }
+  },
+  {
+    "city": "Manisa",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "MAN-01",
+    "location": {
+      "lat": 38.620506,
+      "lng": 27.458375
+    }
+  },
+  {
+    "city": "Manisa",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "MAN-02",
+    "location": {
+      "lat": 38.611438,
+      "lng": 27.452215
+    }
+  },
+  {
+    "city": "Manisa",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "MAN-03",
+    "location": {
+      "lat": 38.587181,
+      "lng": 27.431997
+    }
+  },
+  {
+    "city": "Manisa",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "MAN-04",
+    "location": {
+      "lat": 38.670763,
+      "lng": 27.381211
+    }
+  },
+  {
+    "city": "Manisa",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "MAN-05",
+    "location": {
+      "lat": 38.629076,
+      "lng": 27.4445
+    }
+  },
+  {
+    "city": "Manisa",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "MAN-06",
+    "location": {
+      "lat": 38.606829,
+      "lng": 27.438419
+    }
+  },
+  {
+    "city": "Manisa",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "MAN-07",
+    "location": {
+      "lat": 38.595237,
+      "lng": 27.395482
+    }
+  },
+  {
+    "city": "Manisa",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "MAN-08",
+    "location": {
+      "lat": 38.668116,
+      "lng": 27.399324
+    }
+  },
+  {
+    "city": "Manisa",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "MAN-09",
+    "location": {
+      "lat": 38.658933,
+      "lng": 27.459217
+    }
+  },
+  {
+    "city": "Manisa",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "MAN-10",
+    "location": {
+      "lat": 38.613652,
+      "lng": 27.399983
+    }
+  },
+  {
+    "city": "Mardin",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "MAR-01",
+    "location": {
+      "lat": 37.303773,
+      "lng": 40.761334
+    }
+  },
+  {
+    "city": "Mardin",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "MAR-02",
+    "location": {
+      "lat": 37.299825,
+      "lng": 40.694434
+    }
+  },
+  {
+    "city": "Mardin",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "MAR-03",
+    "location": {
+      "lat": 37.274778,
+      "lng": 40.761484
+    }
+  },
+  {
+    "city": "Mardin",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "MAR-04",
+    "location": {
+      "lat": 37.301684,
+      "lng": 40.788216
+    }
+  },
+  {
+    "city": "Mardin",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "MAR-05",
+    "location": {
+      "lat": 37.358731,
+      "lng": 40.772122
+    }
+  },
+  {
+    "city": "Mardin",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "MAR-06",
+    "location": {
+      "lat": 37.276961,
+      "lng": 40.752701
+    }
+  },
+  {
+    "city": "Mardin",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "MAR-07",
+    "location": {
+      "lat": 37.338004,
+      "lng": 40.745496
+    }
+  },
+  {
+    "city": "Mardin",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "MAR-08",
+    "location": {
+      "lat": 37.286082,
+      "lng": 40.727819
+    }
+  },
+  {
+    "city": "Mardin",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "MAR-09",
+    "location": {
+      "lat": 37.334568,
+      "lng": 40.76133
+    }
+  },
+  {
+    "city": "Mardin",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "MAR-10",
+    "location": {
+      "lat": 37.284646,
+      "lng": 40.735896
+    }
+  },
+  {
+    "city": "Mersin",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "MER-01",
+    "location": {
+      "lat": 36.780181,
+      "lng": 34.659687
+    }
+  },
+  {
+    "city": "Mersin",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "MER-02",
+    "location": {
+      "lat": 36.817464,
+      "lng": 34.650229
+    }
+  },
+  {
+    "city": "Mersin",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "MER-03",
+    "location": {
+      "lat": 36.847363,
+      "lng": 34.625207
+    }
+  },
+  {
+    "city": "Mersin",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "MER-04",
+    "location": {
+      "lat": 36.776177,
+      "lng": 34.639373
+    }
+  },
+  {
+    "city": "Mersin",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "MER-05",
+    "location": {
+      "lat": 36.77664,
+      "lng": 34.604342
+    }
+  },
+  {
+    "city": "Mersin",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "MER-06",
+    "location": {
+      "lat": 36.76887,
+      "lng": 34.588828
+    }
+  },
+  {
+    "city": "Mersin",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "MER-07",
+    "location": {
+      "lat": 36.766733,
+      "lng": 34.643484
+    }
+  },
+  {
+    "city": "Mersin",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "MER-08",
+    "location": {
+      "lat": 36.773261,
+      "lng": 34.635416
+    }
+  },
+  {
+    "city": "Mersin",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "MER-09",
+    "location": {
+      "lat": 36.771546,
+      "lng": 34.634606
+    }
+  },
+  {
+    "city": "Mersin",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "MER-10",
+    "location": {
+      "lat": 36.811383,
+      "lng": 34.624303
+    }
+  },
+  {
+    "city": "Muğla",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "MUĞ-01",
+    "location": {
+      "lat": 37.186305,
+      "lng": 28.310596
+    }
+  },
+  {
+    "city": "Muğla",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "MUĞ-02",
+    "location": {
+      "lat": 37.186821,
+      "lng": 28.393454
+    }
+  },
+  {
+    "city": "Muğla",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "MUĞ-03",
+    "location": {
+      "lat": 37.242356,
+      "lng": 28.354534
+    }
+  },
+  {
+    "city": "Muğla",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "MUĞ-04",
+    "location": {
+      "lat": 37.222901,
+      "lng": 28.34531
+    }
+  },
+  {
+    "city": "Muğla",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "MUĞ-05",
+    "location": {
+      "lat": 37.256578,
+      "lng": 28.387961
+    }
+  },
+  {
+    "city": "Muğla",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "MUĞ-06",
+    "location": {
+      "lat": 37.220449,
+      "lng": 28.378644
+    }
+  },
+  {
+    "city": "Muğla",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "MUĞ-07",
+    "location": {
+      "lat": 37.204492,
+      "lng": 28.339177
+    }
+  },
+  {
+    "city": "Muğla",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "MUĞ-08",
+    "location": {
+      "lat": 37.173858,
+      "lng": 28.334533
+    }
+  },
+  {
+    "city": "Muğla",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "MUĞ-09",
+    "location": {
+      "lat": 37.19919,
+      "lng": 28.34258
+    }
+  },
+  {
+    "city": "Muğla",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "MUĞ-10",
+    "location": {
+      "lat": 37.231682,
+      "lng": 28.407418
+    }
+  },
+  {
+    "city": "Muş",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "MUŞ-01",
+    "location": {
+      "lat": 38.734212,
+      "lng": 41.442448
+    }
+  },
+  {
+    "city": "Muş",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "MUŞ-02",
+    "location": {
+      "lat": 38.770093,
+      "lng": 41.451171
+    }
+  },
+  {
+    "city": "Muş",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "MUŞ-03",
+    "location": {
+      "lat": 38.736817,
+      "lng": 41.506756
+    }
+  },
+  {
+    "city": "Muş",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "MUŞ-04",
+    "location": {
+      "lat": 38.74615,
+      "lng": 41.443705
+    }
+  },
+  {
+    "city": "Muş",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "MUŞ-05",
+    "location": {
+      "lat": 38.764145,
+      "lng": 41.482157
+    }
+  },
+  {
+    "city": "Muş",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "MUŞ-06",
+    "location": {
+      "lat": 38.717659,
+      "lng": 41.445925
+    }
+  },
+  {
+    "city": "Muş",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "MUŞ-07",
+    "location": {
+      "lat": 38.731919,
+      "lng": 41.539859
+    }
+  },
+  {
+    "city": "Muş",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "MUŞ-08",
+    "location": {
+      "lat": 38.764632,
+      "lng": 41.533913
+    }
+  },
+  {
+    "city": "Muş",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "MUŞ-09",
+    "location": {
+      "lat": 38.713011,
+      "lng": 41.472704
+    }
+  },
+  {
+    "city": "Muş",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "MUŞ-10",
+    "location": {
+      "lat": 38.728531,
+      "lng": 41.489641
+    }
+  },
+  {
+    "city": "Nevşehir",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "NEV-01",
+    "location": {
+      "lat": 38.599886,
+      "lng": 34.757788
+    }
+  },
+  {
+    "city": "Nevşehir",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "NEV-02",
+    "location": {
+      "lat": 38.657416,
+      "lng": 34.709428
+    }
+  },
+  {
+    "city": "Nevşehir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "NEV-03",
+    "location": {
+      "lat": 38.654078,
+      "lng": 34.699565
+    }
+  },
+  {
+    "city": "Nevşehir",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "NEV-04",
+    "location": {
+      "lat": 38.624619,
+      "lng": 34.761878
+    }
+  },
+  {
+    "city": "Nevşehir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "NEV-05",
+    "location": {
+      "lat": 38.65368,
+      "lng": 34.689386
+    }
+  },
+  {
+    "city": "Nevşehir",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "NEV-06",
+    "location": {
+      "lat": 38.630369,
+      "lng": 34.697006
+    }
+  },
+  {
+    "city": "Nevşehir",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "NEV-07",
+    "location": {
+      "lat": 38.622005,
+      "lng": 34.704086
+    }
+  },
+  {
+    "city": "Nevşehir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "NEV-08",
+    "location": {
+      "lat": 38.589088,
+      "lng": 34.724243
+    }
+  },
+  {
+    "city": "Nevşehir",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "NEV-09",
+    "location": {
+      "lat": 38.623898,
+      "lng": 34.746051
+    }
+  },
+  {
+    "city": "Nevşehir",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "NEV-10",
+    "location": {
+      "lat": 38.658888,
+      "lng": 34.729059
+    }
+  },
+  {
+    "city": "Niğde",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "NIĞ-01",
+    "location": {
+      "lat": 37.934762,
+      "lng": 34.678014
+    }
+  },
+  {
+    "city": "Niğde",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "NIĞ-02",
+    "location": {
+      "lat": 37.965441,
+      "lng": 34.696123
+    }
+  },
+  {
+    "city": "Niğde",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "NIĞ-03",
+    "location": {
+      "lat": 37.994438,
+      "lng": 34.636556
+    }
+  },
+  {
+    "city": "Niğde",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "NIĞ-04",
+    "location": {
+      "lat": 37.971226,
+      "lng": 34.712321
+    }
+  },
+  {
+    "city": "Niğde",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "NIĞ-05",
+    "location": {
+      "lat": 37.931453,
+      "lng": 34.692634
+    }
+  },
+  {
+    "city": "Niğde",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "NIĞ-06",
+    "location": {
+      "lat": 37.950748,
+      "lng": 34.643148
+    }
+  },
+  {
+    "city": "Niğde",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "NIĞ-07",
+    "location": {
+      "lat": 37.951748,
+      "lng": 34.685722
+    }
+  },
+  {
+    "city": "Niğde",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "NIĞ-08",
+    "location": {
+      "lat": 37.941624,
+      "lng": 34.644209
+    }
+  },
+  {
+    "city": "Niğde",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "NIĞ-09",
+    "location": {
+      "lat": 37.929354,
+      "lng": 34.67118
+    }
+  },
+  {
+    "city": "Niğde",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "NIĞ-10",
+    "location": {
+      "lat": 37.981961,
+      "lng": 34.70957
+    }
+  },
+  {
+    "city": "Ordu",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ORD-01",
+    "location": {
+      "lat": 41.029751,
+      "lng": 37.830779
+    }
+  },
+  {
+    "city": "Ordu",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ORD-02",
+    "location": {
+      "lat": 41.016586,
+      "lng": 37.904908
+    }
+  },
+  {
+    "city": "Ordu",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ORD-03",
+    "location": {
+      "lat": 40.978244,
+      "lng": 37.830421
+    }
+  },
+  {
+    "city": "Ordu",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ORD-04",
+    "location": {
+      "lat": 40.969436,
+      "lng": 37.913446
+    }
+  },
+  {
+    "city": "Ordu",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ORD-05",
+    "location": {
+      "lat": 40.982122,
+      "lng": 37.895999
+    }
+  },
+  {
+    "city": "Ordu",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ORD-06",
+    "location": {
+      "lat": 40.940785,
+      "lng": 37.880495
+    }
+  },
+  {
+    "city": "Ordu",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ORD-07",
+    "location": {
+      "lat": 40.995041,
+      "lng": 37.921945
+    }
+  },
+  {
+    "city": "Ordu",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ORD-08",
+    "location": {
+      "lat": 41.029339,
+      "lng": 37.895611
+    }
+  },
+  {
+    "city": "Ordu",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ORD-09",
+    "location": {
+      "lat": 40.975118,
+      "lng": 37.834222
+    }
+  },
+  {
+    "city": "Ordu",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ORD-10",
+    "location": {
+      "lat": 40.946552,
+      "lng": 37.874299
+    }
+  },
+  {
+    "city": "Osmaniye",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "OSM-01",
+    "location": {
+      "lat": 37.063861,
+      "lng": 36.245806
+    }
+  },
+  {
+    "city": "Osmaniye",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "OSM-02",
+    "location": {
+      "lat": 37.039239,
+      "lng": 36.297925
+    }
+  },
+  {
+    "city": "Osmaniye",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "OSM-03",
+    "location": {
+      "lat": 37.076392,
+      "lng": 36.284134
+    }
+  },
+  {
+    "city": "Osmaniye",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "OSM-04",
+    "location": {
+      "lat": 37.111881,
+      "lng": 36.206369
+    }
+  },
+  {
+    "city": "Osmaniye",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "OSM-05",
+    "location": {
+      "lat": 37.107151,
+      "lng": 36.241109
+    }
+  },
+  {
+    "city": "Osmaniye",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "OSM-06",
+    "location": {
+      "lat": 37.074748,
+      "lng": 36.275184
+    }
+  },
+  {
+    "city": "Osmaniye",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "OSM-07",
+    "location": {
+      "lat": 37.020928,
+      "lng": 36.227548
+    }
+  },
+  {
+    "city": "Osmaniye",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "OSM-08",
+    "location": {
+      "lat": 37.084403,
+      "lng": 36.219801
+    }
+  },
+  {
+    "city": "Osmaniye",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "OSM-09",
+    "location": {
+      "lat": 37.09229,
+      "lng": 36.237704
+    }
+  },
+  {
+    "city": "Osmaniye",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "OSM-10",
+    "location": {
+      "lat": 37.038833,
+      "lng": 36.235131
+    }
+  },
+  {
+    "city": "Rize",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "RIZ-01",
+    "location": {
+      "lat": 41.043558,
+      "lng": 40.48728
+    }
+  },
+  {
+    "city": "Rize",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "RIZ-02",
+    "location": {
+      "lat": 41.051627,
+      "lng": 40.548321
+    }
+  },
+  {
+    "city": "Rize",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "RIZ-03",
+    "location": {
+      "lat": 40.983488,
+      "lng": 40.549388
+    }
+  },
+  {
+    "city": "Rize",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "RIZ-04",
+    "location": {
+      "lat": 41.012917,
+      "lng": 40.505896
+    }
+  },
+  {
+    "city": "Rize",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "RIZ-05",
+    "location": {
+      "lat": 41.064684,
+      "lng": 40.476993
+    }
+  },
+  {
+    "city": "Rize",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "RIZ-06",
+    "location": {
+      "lat": 41.025895,
+      "lng": 40.476425
+    }
+  },
+  {
+    "city": "Rize",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "RIZ-07",
+    "location": {
+      "lat": 41.056779,
+      "lng": 40.507837
+    }
+  },
+  {
+    "city": "Rize",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "RIZ-08",
+    "location": {
+      "lat": 41.060246,
+      "lng": 40.522452
+    }
+  },
+  {
+    "city": "Rize",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "RIZ-09",
+    "location": {
+      "lat": 41.022832,
+      "lng": 40.569434
+    }
+  },
+  {
+    "city": "Rize",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "RIZ-10",
+    "location": {
+      "lat": 41.040408,
+      "lng": 40.54456
+    }
+  },
+  {
+    "city": "Sakarya",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "SAK-01",
+    "location": {
+      "lat": 40.781675,
+      "lng": 30.362126
+    }
+  },
+  {
+    "city": "Sakarya",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "SAK-02",
+    "location": {
+      "lat": 40.738607,
+      "lng": 30.439056
+    }
+  },
+  {
+    "city": "Sakarya",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "SAK-03",
+    "location": {
+      "lat": 40.771542,
+      "lng": 30.351091
+    }
+  },
+  {
+    "city": "Sakarya",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "SAK-04",
+    "location": {
+      "lat": 40.773083,
+      "lng": 30.440525
+    }
+  },
+  {
+    "city": "Sakarya",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "SAK-05",
+    "location": {
+      "lat": 40.737184,
+      "lng": 30.43464
+    }
+  },
+  {
+    "city": "Sakarya",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "SAK-06",
+    "location": {
+      "lat": 40.790757,
+      "lng": 30.438544
+    }
+  },
+  {
+    "city": "Sakarya",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "SAK-07",
+    "location": {
+      "lat": 40.809267,
+      "lng": 30.391446
+    }
+  },
+  {
+    "city": "Sakarya",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "SAK-08",
+    "location": {
+      "lat": 40.735209,
+      "lng": 30.440062
+    }
+  },
+  {
+    "city": "Sakarya",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "SAK-09",
+    "location": {
+      "lat": 40.766626,
+      "lng": 30.427538
+    }
+  },
+  {
+    "city": "Sakarya",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "SAK-10",
+    "location": {
+      "lat": 40.745505,
+      "lng": 30.414481
+    }
+  },
+  {
+    "city": "Samsun",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "SAM-01",
+    "location": {
+      "lat": 41.335735,
+      "lng": 36.342465
+    }
+  },
+  {
+    "city": "Samsun",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "SAM-02",
+    "location": {
+      "lat": 41.282511,
+      "lng": 36.378787
+    }
+  },
+  {
+    "city": "Samsun",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "SAM-03",
+    "location": {
+      "lat": 41.252193,
+      "lng": 36.283095
+    }
+  },
+  {
+    "city": "Samsun",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "SAM-04",
+    "location": {
+      "lat": 41.275872,
+      "lng": 36.345335
+    }
+  },
+  {
+    "city": "Samsun",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "SAM-05",
+    "location": {
+      "lat": 41.306928,
+      "lng": 36.326188
+    }
+  },
+  {
+    "city": "Samsun",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "SAM-06",
+    "location": {
+      "lat": 41.244584,
+      "lng": 36.376557
+    }
+  },
+  {
+    "city": "Samsun",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "SAM-07",
+    "location": {
+      "lat": 41.249065,
+      "lng": 36.29414
+    }
+  },
+  {
+    "city": "Samsun",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "SAM-08",
+    "location": {
+      "lat": 41.333322,
+      "lng": 36.365686
+    }
+  },
+  {
+    "city": "Samsun",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "SAM-09",
+    "location": {
+      "lat": 41.31291,
+      "lng": 36.3157
+    }
+  },
+  {
+    "city": "Samsun",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "SAM-10",
+    "location": {
+      "lat": 41.305862,
+      "lng": 36.339554
+    }
+  },
+  {
+    "city": "Siirt",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "SII-01",
+    "location": {
+      "lat": 37.964216,
+      "lng": 41.970028
+    }
+  },
+  {
+    "city": "Siirt",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "SII-02",
+    "location": {
+      "lat": 37.937545,
+      "lng": 41.928439
+    }
+  },
+  {
+    "city": "Siirt",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "SII-03",
+    "location": {
+      "lat": 37.894145,
+      "lng": 41.982101
+    }
+  },
+  {
+    "city": "Siirt",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "SII-04",
+    "location": {
+      "lat": 37.972389,
+      "lng": 41.891398
+    }
+  },
+  {
+    "city": "Siirt",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "SII-05",
+    "location": {
+      "lat": 37.94303,
+      "lng": 41.901219
+    }
+  },
+  {
+    "city": "Siirt",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "SII-06",
+    "location": {
+      "lat": 37.914054,
+      "lng": 41.910909
+    }
+  },
+  {
+    "city": "Siirt",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "SII-07",
+    "location": {
+      "lat": 37.930611,
+      "lng": 41.894612
+    }
+  },
+  {
+    "city": "Siirt",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "SII-08",
+    "location": {
+      "lat": 37.973605,
+      "lng": 41.958695
+    }
+  },
+  {
+    "city": "Siirt",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "SII-09",
+    "location": {
+      "lat": 37.915491,
+      "lng": 41.979757
+    }
+  },
+  {
+    "city": "Siirt",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "SII-10",
+    "location": {
+      "lat": 37.962311,
+      "lng": 41.939218
+    }
+  },
+  {
+    "city": "Sinop",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "SIN-01",
+    "location": {
+      "lat": 41.984613,
+      "lng": 35.106372
+    }
+  },
+  {
+    "city": "Sinop",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "SIN-02",
+    "location": {
+      "lat": 42.033023,
+      "lng": 35.107385
+    }
+  },
+  {
+    "city": "Sinop",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "SIN-03",
+    "location": {
+      "lat": 42.011209,
+      "lng": 35.137089
+    }
+  },
+  {
+    "city": "Sinop",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "SIN-04",
+    "location": {
+      "lat": 42.009239,
+      "lng": 35.176783
+    }
+  },
+  {
+    "city": "Sinop",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "SIN-05",
+    "location": {
+      "lat": 42.031043,
+      "lng": 35.141376
+    }
+  },
+  {
+    "city": "Sinop",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "SIN-06",
+    "location": {
+      "lat": 41.971883,
+      "lng": 35.16265
+    }
+  },
+  {
+    "city": "Sinop",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "SIN-07",
+    "location": {
+      "lat": 42.033387,
+      "lng": 35.16246
+    }
+  },
+  {
+    "city": "Sinop",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "SIN-08",
+    "location": {
+      "lat": 42.046162,
+      "lng": 35.102666
+    }
+  },
+  {
+    "city": "Sinop",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "SIN-09",
+    "location": {
+      "lat": 42.03817,
+      "lng": 35.112949
+    }
+  },
+  {
+    "city": "Sinop",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "SIN-10",
+    "location": {
+      "lat": 42.029899,
+      "lng": 35.193775
+    }
+  },
+  {
+    "city": "Sivas",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "SIV-01",
+    "location": {
+      "lat": 39.750929,
+      "lng": 37.035828
+    }
+  },
+  {
+    "city": "Sivas",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "SIV-02",
+    "location": {
+      "lat": 39.772543,
+      "lng": 36.981408
+    }
+  },
+  {
+    "city": "Sivas",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "SIV-03",
+    "location": {
+      "lat": 39.74785,
+      "lng": 37.013399
+    }
+  },
+  {
+    "city": "Sivas",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "SIV-04",
+    "location": {
+      "lat": 39.761357,
+      "lng": 37.017098
+    }
+  },
+  {
+    "city": "Sivas",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "SIV-05",
+    "location": {
+      "lat": 39.746891,
+      "lng": 36.964716
+    }
+  },
+  {
+    "city": "Sivas",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "SIV-06",
+    "location": {
+      "lat": 39.772944,
+      "lng": 37.003181
+    }
+  },
+  {
+    "city": "Sivas",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "SIV-07",
+    "location": {
+      "lat": 39.782137,
+      "lng": 37.054367
+    }
+  },
+  {
+    "city": "Sivas",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "SIV-08",
+    "location": {
+      "lat": 39.781362,
+      "lng": 37.008831
+    }
+  },
+  {
+    "city": "Sivas",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "SIV-09",
+    "location": {
+      "lat": 39.749586,
+      "lng": 37.039007
+    }
+  },
+  {
+    "city": "Sivas",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "SIV-10",
+    "location": {
+      "lat": 39.77091,
+      "lng": 37.032135
+    }
+  },
+  {
+    "city": "Şanlıurfa",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ŞAN-01",
+    "location": {
+      "lat": 37.125143,
+      "lng": 38.82731
+    }
+  },
+  {
+    "city": "Şanlıurfa",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ŞAN-02",
+    "location": {
+      "lat": 37.209169,
+      "lng": 38.836118
+    }
+  },
+  {
+    "city": "Şanlıurfa",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ŞAN-03",
+    "location": {
+      "lat": 37.152536,
+      "lng": 38.741912
+    }
+  },
+  {
+    "city": "Şanlıurfa",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ŞAN-04",
+    "location": {
+      "lat": 37.132705,
+      "lng": 38.772469
+    }
+  },
+  {
+    "city": "Şanlıurfa",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ŞAN-05",
+    "location": {
+      "lat": 37.183387,
+      "lng": 38.825881
+    }
+  },
+  {
+    "city": "Şanlıurfa",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ŞAN-06",
+    "location": {
+      "lat": 37.127672,
+      "lng": 38.787016
+    }
+  },
+  {
+    "city": "Şanlıurfa",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ŞAN-07",
+    "location": {
+      "lat": 37.186506,
+      "lng": 38.817687
+    }
+  },
+  {
+    "city": "Şanlıurfa",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ŞAN-08",
+    "location": {
+      "lat": 37.217606,
+      "lng": 38.796689
+    }
+  },
+  {
+    "city": "Şanlıurfa",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ŞAN-09",
+    "location": {
+      "lat": 37.127053,
+      "lng": 38.811468
+    }
+  },
+  {
+    "city": "Şanlıurfa",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ŞAN-10",
+    "location": {
+      "lat": 37.172643,
+      "lng": 38.805037
+    }
+  },
+  {
+    "city": "Şırnak",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "ŞIR-01",
+    "location": {
+      "lat": 37.477886,
+      "lng": 42.45105
+    }
+  },
+  {
+    "city": "Şırnak",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ŞIR-02",
+    "location": {
+      "lat": 37.554475,
+      "lng": 42.464254
+    }
+  },
+  {
+    "city": "Şırnak",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ŞIR-03",
+    "location": {
+      "lat": 37.50614,
+      "lng": 42.458373
+    }
+  },
+  {
+    "city": "Şırnak",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "ŞIR-04",
+    "location": {
+      "lat": 37.56962,
+      "lng": 42.451514
+    }
+  },
+  {
+    "city": "Şırnak",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ŞIR-05",
+    "location": {
+      "lat": 37.563299,
+      "lng": 42.479811
+    }
+  },
+  {
+    "city": "Şırnak",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "ŞIR-06",
+    "location": {
+      "lat": 37.480163,
+      "lng": 42.467905
+    }
+  },
+  {
+    "city": "Şırnak",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ŞIR-07",
+    "location": {
+      "lat": 37.49561,
+      "lng": 42.431291
+    }
+  },
+  {
+    "city": "Şırnak",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "ŞIR-08",
+    "location": {
+      "lat": 37.49757,
+      "lng": 42.421814
+    }
+  },
+  {
+    "city": "Şırnak",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ŞIR-09",
+    "location": {
+      "lat": 37.476058,
+      "lng": 42.44827
+    }
+  },
+  {
+    "city": "Şırnak",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "ŞIR-10",
+    "location": {
+      "lat": 37.483216,
+      "lng": 42.415663
+    }
+  },
+  {
+    "city": "Tekirdağ",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "TEK-01",
+    "location": {
+      "lat": 41.019019,
+      "lng": 27.540957
+    }
+  },
+  {
+    "city": "Tekirdağ",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "TEK-02",
+    "location": {
+      "lat": 40.952636,
+      "lng": 27.537281
+    }
+  },
+  {
+    "city": "Tekirdağ",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "TEK-03",
+    "location": {
+      "lat": 41.000428,
+      "lng": 27.546351
+    }
+  },
+  {
+    "city": "Tekirdağ",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "TEK-04",
+    "location": {
+      "lat": 41.001284,
+      "lng": 27.559442
+    }
+  },
+  {
+    "city": "Tekirdağ",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "TEK-05",
+    "location": {
+      "lat": 41.029188,
+      "lng": 27.473176
+    }
+  },
+  {
+    "city": "Tekirdağ",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "TEK-06",
+    "location": {
+      "lat": 40.947236,
+      "lng": 27.54797
+    }
+  },
+  {
+    "city": "Tekirdağ",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "TEK-07",
+    "location": {
+      "lat": 41.004707,
+      "lng": 27.4793
+    }
+  },
+  {
+    "city": "Tekirdağ",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "TEK-08",
+    "location": {
+      "lat": 41.018957,
+      "lng": 27.531985
+    }
+  },
+  {
+    "city": "Tekirdağ",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "TEK-09",
+    "location": {
+      "lat": 40.968484,
+      "lng": 27.477177
+    }
+  },
+  {
+    "city": "Tekirdağ",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "TEK-10",
+    "location": {
+      "lat": 41.021686,
+      "lng": 27.520188
+    }
+  },
+  {
+    "city": "Tokat",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "TOK-01",
+    "location": {
+      "lat": 40.284249,
+      "lng": 36.51063
+    }
+  },
+  {
+    "city": "Tokat",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "TOK-02",
+    "location": {
+      "lat": 40.311866,
+      "lng": 36.510583
+    }
+  },
+  {
+    "city": "Tokat",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "TOK-03",
+    "location": {
+      "lat": 40.328687,
+      "lng": 36.575068
+    }
+  },
+  {
+    "city": "Tokat",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "TOK-04",
+    "location": {
+      "lat": 40.289083,
+      "lng": 36.516647
+    }
+  },
+  {
+    "city": "Tokat",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "TOK-05",
+    "location": {
+      "lat": 40.351248,
+      "lng": 36.598551
+    }
+  },
+  {
+    "city": "Tokat",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "TOK-06",
+    "location": {
+      "lat": 40.268631,
+      "lng": 36.528116
+    }
+  },
+  {
+    "city": "Tokat",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "TOK-07",
+    "location": {
+      "lat": 40.282353,
+      "lng": 36.542612
+    }
+  },
+  {
+    "city": "Tokat",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "TOK-08",
+    "location": {
+      "lat": 40.341856,
+      "lng": 36.594502
+    }
+  },
+  {
+    "city": "Tokat",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "TOK-09",
+    "location": {
+      "lat": 40.282826,
+      "lng": 36.536754
+    }
+  },
+  {
+    "city": "Tokat",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "TOK-10",
+    "location": {
+      "lat": 40.343994,
+      "lng": 36.532042
+    }
+  },
+  {
+    "city": "Trabzon",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "TRA-01",
+    "location": {
+      "lat": 41.008653,
+      "lng": 39.745701
+    }
+  },
+  {
+    "city": "Trabzon",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "TRA-02",
+    "location": {
+      "lat": 41.045568,
+      "lng": 39.767526
+    }
+  },
+  {
+    "city": "Trabzon",
+    "type": "car",
+    "isOccupied": false,
+    "spotNumber": "TRA-03",
+    "location": {
+      "lat": 41.0388,
+      "lng": 39.695402
+    }
+  },
+  {
+    "city": "Trabzon",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "TRA-04",
+    "location": {
+      "lat": 40.955207,
+      "lng": 39.683506
+    }
+  },
+  {
+    "city": "Trabzon",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "TRA-05",
+    "location": {
+      "lat": 40.990759,
+      "lng": 39.723988
+    }
+  },
+  {
+    "city": "Trabzon",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "TRA-06",
+    "location": {
+      "lat": 40.988123,
+      "lng": 39.689668
+    }
+  },
+  {
+    "city": "Trabzon",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "TRA-07",
+    "location": {
+      "lat": 41.008666,
+      "lng": 39.713779
+    }
+  },
+  {
+    "city": "Trabzon",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "TRA-08",
+    "location": {
+      "lat": 41.006045,
+      "lng": 39.686076
+    }
+  },
+  {
+    "city": "Trabzon",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "TRA-09",
+    "location": {
+      "lat": 40.987854,
+      "lng": 39.751756
+    }
+  },
+  {
+    "city": "Trabzon",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "TRA-10",
+    "location": {
+      "lat": 40.958674,
+      "lng": 39.69147
+    }
+  },
+  {
+    "city": "Tunceli",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "TUN-01",
+    "location": {
+      "lat": 39.075611,
+      "lng": 39.532568
+    }
+  },
+  {
+    "city": "Tunceli",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "TUN-02",
+    "location": {
+      "lat": 39.139385,
+      "lng": 39.547264
+    }
+  },
+  {
+    "city": "Tunceli",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "TUN-03",
+    "location": {
+      "lat": 39.074976,
+      "lng": 39.57875
+    }
+  },
+  {
+    "city": "Tunceli",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "TUN-04",
+    "location": {
+      "lat": 39.11905,
+      "lng": 39.581616
+    }
+  },
+  {
+    "city": "Tunceli",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "TUN-05",
+    "location": {
+      "lat": 39.058117,
+      "lng": 39.581788
+    }
+  },
+  {
+    "city": "Tunceli",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "TUN-06",
+    "location": {
+      "lat": 39.137997,
+      "lng": 39.590645
+    }
+  },
+  {
+    "city": "Tunceli",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "TUN-07",
+    "location": {
+      "lat": 39.123256,
+      "lng": 39.570066
+    }
+  },
+  {
+    "city": "Tunceli",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "TUN-08",
+    "location": {
+      "lat": 39.120757,
+      "lng": 39.525031
+    }
+  },
+  {
+    "city": "Tunceli",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "TUN-09",
+    "location": {
+      "lat": 39.050808,
+      "lng": 39.599528
+    }
+  },
+  {
+    "city": "Tunceli",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "TUN-10",
+    "location": {
+      "lat": 39.115867,
+      "lng": 39.563932
+    }
+  },
+  {
+    "city": "Uşak",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "UŞA-01",
+    "location": {
+      "lat": 38.710032,
+      "lng": 29.394234
+    }
+  },
+  {
+    "city": "Uşak",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "UŞA-02",
+    "location": {
+      "lat": 38.664867,
+      "lng": 29.375554
+    }
+  },
+  {
+    "city": "Uşak",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "UŞA-03",
+    "location": {
+      "lat": 38.644235,
+      "lng": 29.445374
+    }
+  },
+  {
+    "city": "Uşak",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "UŞA-04",
+    "location": {
+      "lat": 38.7096,
+      "lng": 29.410864
+    }
+  },
+  {
+    "city": "Uşak",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "UŞA-05",
+    "location": {
+      "lat": 38.725214,
+      "lng": 29.43553
+    }
+  },
+  {
+    "city": "Uşak",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "UŞA-06",
+    "location": {
+      "lat": 38.647169,
+      "lng": 29.414003
+    }
+  },
+  {
+    "city": "Uşak",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "UŞA-07",
+    "location": {
+      "lat": 38.683064,
+      "lng": 29.360948
+    }
+  },
+  {
+    "city": "Uşak",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "UŞA-08",
+    "location": {
+      "lat": 38.670767,
+      "lng": 29.378046
+    }
+  },
+  {
+    "city": "Uşak",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "UŞA-09",
+    "location": {
+      "lat": 38.637131,
+      "lng": 29.428717
+    }
+  },
+  {
+    "city": "Uşak",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "UŞA-10",
+    "location": {
+      "lat": 38.666256,
+      "lng": 29.407788
+    }
+  },
+  {
+    "city": "Van",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "VAN-01",
+    "location": {
+      "lat": 38.515768,
+      "lng": 43.366325
+    }
+  },
+  {
+    "city": "Van",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "VAN-02",
+    "location": {
+      "lat": 38.546442,
+      "lng": 43.414444
+    }
+  },
+  {
+    "city": "Van",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "VAN-03",
+    "location": {
+      "lat": 38.515467,
+      "lng": 43.349602
+    }
+  },
+  {
+    "city": "Van",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "VAN-04",
+    "location": {
+      "lat": 38.454737,
+      "lng": 43.393763
+    }
+  },
+  {
+    "city": "Van",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "VAN-05",
+    "location": {
+      "lat": 38.522045,
+      "lng": 43.351935
+    }
+  },
+  {
+    "city": "Van",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "VAN-06",
+    "location": {
+      "lat": 38.468535,
+      "lng": 43.389362
+    }
+  },
+  {
+    "city": "Van",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "VAN-07",
+    "location": {
+      "lat": 38.535572,
+      "lng": 43.346114
+    }
+  },
+  {
+    "city": "Van",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "VAN-08",
+    "location": {
+      "lat": 38.516249,
+      "lng": 43.365288
+    }
+  },
+  {
+    "city": "Van",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "VAN-09",
+    "location": {
+      "lat": 38.513734,
+      "lng": 43.342709
+    }
+  },
+  {
+    "city": "Van",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "VAN-10",
+    "location": {
+      "lat": 38.498802,
+      "lng": 43.360548
+    }
+  },
+  {
+    "city": "Yalova",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "YAL-01",
+    "location": {
+      "lat": 40.690457,
+      "lng": 29.231265
+    }
+  },
+  {
+    "city": "Yalova",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "YAL-02",
+    "location": {
+      "lat": 40.639234,
+      "lng": 29.284659
+    }
+  },
+  {
+    "city": "Yalova",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "YAL-03",
+    "location": {
+      "lat": 40.697992,
+      "lng": 29.266399
+    }
+  },
+  {
+    "city": "Yalova",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "YAL-04",
+    "location": {
+      "lat": 40.685782,
+      "lng": 29.280924
+    }
+  },
+  {
+    "city": "Yalova",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "YAL-05",
+    "location": {
+      "lat": 40.60182,
+      "lng": 29.28774
+    }
+  },
+  {
+    "city": "Yalova",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "YAL-06",
+    "location": {
+      "lat": 40.668761,
+      "lng": 29.306896
+    }
+  },
+  {
+    "city": "Yalova",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "YAL-07",
+    "location": {
+      "lat": 40.676343,
+      "lng": 29.253787
+    }
+  },
+  {
+    "city": "Yalova",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "YAL-08",
+    "location": {
+      "lat": 40.682283,
+      "lng": 29.311053
+    }
+  },
+  {
+    "city": "Yalova",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "YAL-09",
+    "location": {
+      "lat": 40.688782,
+      "lng": 29.295875
+    }
+  },
+  {
+    "city": "Yalova",
+    "type": "car",
+    "isOccupied": true,
+    "spotNumber": "YAL-10",
+    "location": {
+      "lat": 40.659127,
+      "lng": 29.256647
+    }
+  },
+  {
+    "city": "Yozgat",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "YOZ-01",
+    "location": {
+      "lat": 39.863452,
+      "lng": 34.852391
+    }
+  },
+  {
+    "city": "Yozgat",
+    "type": "motorcycle",
+    "isOccupied": false,
+    "spotNumber": "YOZ-02",
+    "location": {
+      "lat": 39.843701,
+      "lng": 34.776805
+    }
+  },
+  {
+    "city": "Yozgat",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "YOZ-03",
+    "location": {
+      "lat": 39.810831,
+      "lng": 34.773672
+    }
+  },
+  {
+    "city": "Yozgat",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "YOZ-04",
+    "location": {
+      "lat": 39.823666,
+      "lng": 34.831751
+    }
+  },
+  {
+    "city": "Yozgat",
+    "type": "motorcycle",
+    "isOccupied": true,
+    "spotNumber": "YOZ-05",
+    "location": {
+      "lat": 39.780176,
+      "lng": 34.859473
+    }
+  },
+  {
+    "city": "Yozgat",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "YOZ-06",
+    "location": {
+      "lat": 39.816099,
+      "lng": 34.850765
+    }
+  },
+  {
+    "city": "Yozgat",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "YOZ-07",
+    "location": {
+      "lat": 39.850512,
+      "lng": 34.815562
+    }
+  },
+  {
+    "city": "Yozgat",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "YOZ-08",
+    "location": {
+      "lat": 39.843507,
+      "lng": 34.82407
+    }
+  },
+  {
+    "city": "Yozgat",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "YOZ-09",
+    "location": {
+      "lat": 39.831706,
+      "lng": 34.8281
+    }
+  },
+  {
+    "city": "Yozgat",
+    "type": "other",
+    "isOccupied": false,
+    "spotNumber": "YOZ-10",
+    "location": {
+      "lat": 39.828636,
+      "lng": 34.795596
+    }
+  },
+  {
+    "city": "Zonguldak",
+    "type": "truck",
+    "isOccupied": true,
+    "spotNumber": "ZON-01",
+    "location": {
+      "lat": 41.421507,
+      "lng": 31.806785
+    }
+  },
+  {
+    "city": "Zonguldak",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ZON-02",
+    "location": {
+      "lat": 41.418376,
+      "lng": 31.789543
+    }
+  },
+  {
+    "city": "Zonguldak",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ZON-03",
+    "location": {
+      "lat": 41.464145,
+      "lng": 31.770785
+    }
+  },
+  {
+    "city": "Zonguldak",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ZON-04",
+    "location": {
+      "lat": 41.482536,
+      "lng": 31.758044
+    }
+  },
+  {
+    "city": "Zonguldak",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ZON-05",
+    "location": {
+      "lat": 41.474717,
+      "lng": 31.837764
+    }
+  },
+  {
+    "city": "Zonguldak",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ZON-06",
+    "location": {
+      "lat": 41.410965,
+      "lng": 31.756446
+    }
+  },
+  {
+    "city": "Zonguldak",
+    "type": "other",
+    "isOccupied": true,
+    "spotNumber": "ZON-07",
+    "location": {
+      "lat": 41.449842,
+      "lng": 31.746934
+    }
+  },
+  {
+    "city": "Zonguldak",
+    "type": "truck",
+    "isOccupied": false,
+    "spotNumber": "ZON-08",
+    "location": {
+      "lat": 41.405483,
+      "lng": 31.784192
+    }
+  },
+  {
+    "city": "Zonguldak",
+    "type": "disabled",
+    "isOccupied": true,
+    "spotNumber": "ZON-09",
+    "location": {
+      "lat": 41.42605,
+      "lng": 31.799455
+    }
+  },
+  {
+    "city": "Zonguldak",
+    "type": "disabled",
+    "isOccupied": false,
+    "spotNumber": "ZON-10",
+    "location": {
+      "lat": 41.481468,
+      "lng": 31.825892
+    }
+  }
+]
