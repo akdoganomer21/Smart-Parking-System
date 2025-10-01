@@ -62,18 +62,27 @@ const RegisterPage = () => {
     setError("");
     setEmailValid(true);
 
-    const res = await fetch("http://localhost:5050/api/auth/register", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(form),
-    });
+    try {
+      const res = await fetch(
+        `${import.meta.env.VITE_API_URL}/api/auth/register`,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(form),
+        }
+      );
 
-    const data = await res.json();
-    if (res.ok) {
-      setSuccess("Kayıt başarılı. Giriş ekranına yönlendiriliyorsunuz...");
-      setTimeout(() => navigate("/login"), 3000);
-    } else {
-      setError(data.message || "Kayıt başarısız");
+      const data = await res.json();
+
+      if (res.ok) {
+        setSuccess("Kayıt başarılı. Giriş ekranına yönlendiriliyorsunuz...");
+        setTimeout(() => navigate("/login"), 3000);
+      } else {
+        setError(data.message || "Kayıt başarısız");
+        triggerShake();
+      }
+    } catch (err) {
+      setError("Sunucuya ulaşılamıyor. Lütfen tekrar deneyin.");
       triggerShake();
     }
   };
@@ -109,7 +118,9 @@ const RegisterPage = () => {
             placeholder="E-posta"
             required
             className={`w-full mb-4 p-2 border rounded focus:outline-none focus:ring-2 ${
-              !emailValid ? "border-red-500 ring-red-300" : "focus:ring-indigo-400"
+              !emailValid
+                ? "border-red-500 ring-red-300"
+                : "focus:ring-indigo-400"
             } transition`}
             onChange={handleChange}
           />
@@ -144,7 +155,10 @@ const RegisterPage = () => {
 
           <p className="text-sm text-center mt-4">
             Zaten hesabınız var mı?{" "}
-            <Link className="text-indigo-600 underline hover:text-indigo-800" to="/login">
+            <Link
+              className="text-indigo-600 underline hover:text-indigo-800"
+              to="/login"
+            >
               Giriş yap
             </Link>
           </p>
