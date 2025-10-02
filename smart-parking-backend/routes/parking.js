@@ -3,19 +3,8 @@ const router = express.Router();
 const ParkingSpot = require("../models/ParkingSpot");
 const verifyToken = require("../middleware/authMiddleware");
 
-// 👉 Yeni park alanı oluştur (sadece login olan)
-router.post("/", verifyToken, async (req, res) => {
-  try {
-    const newSpot = new ParkingSpot(req.body);
-    const savedSpot = await newSpot.save();
-    res.status(201).json(savedSpot);
-  } catch (err) {
-    res.status(500).json({ message: "Park yeri oluşturulamadı", error: err.message });
-  }
-});
-
-// 👉 Park yerlerini listele (herkes görebilir)
-router.get("/", async (req, res) => {
+// 🔹 Sayfalı park yerlerini getir (login gerekli)
+router.get("/", verifyToken, async (req, res) => {
   try {
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 10;
@@ -27,30 +16,51 @@ router.get("/", async (req, res) => {
     res.json({
       spots,
       totalPages: Math.ceil(total / limit),
-      currentPage: page
+      currentPage: page,
     });
   } catch (err) {
     res.status(500).json({ message: "Park yerleri alınamadı", error: err.message });
   }
 });
 
-// 👉 Belirli bir park alanını güncelle (login gerekli)
-router.put("/:id", verifyToken, async (req, res) => {
+// 🔹 Tüm verileri getir (filtreleme frontend'de yapılacak)
+router.get("/all", verifyToken, async (req, res) => {
   try {
-    const updatedSpot = await ParkingSpot.findByIdAndUpdate(req.params.id, req.body, { new: true });
-    res.json(updatedSpot);
+    const spots = await ParkingSpot.find();
+    res.json(spots);
   } catch (err) {
-    res.status(500).json({ message: "Park yeri güncellenemedi", error: err.message });
+    res.status(500).json({ message: "Tüm veriler alınamadı", error: err.message });
   }
 });
 
-// 👉 Belirli bir park alanını sil (login gerekli)
+// 🔹 Yeni park yeri ekle
+router.post("/", verifyToken, async (req, res) => {
+  try {
+    const newSpot = new ParkingSpot(req.body);
+    const saved = await newSpot.save();
+    res.status(201).json(saved);
+  } catch (err) {
+    res.status(500).json({ message: "Park yeri eklenemedi", error: err.message });
+  }
+});
+
+// 🔹 Belirli bir park yerini güncelle
+router.put("/:id", verifyToken, async (req, res) => {
+  try {
+    const updated = await ParkingSpot.findByIdAndUpdate(req.params.id, req.body, { new: true });
+    res.json(updated);
+  } catch (err) {
+    res.status(500).json({ message: "Güncelleme başarısız", error: err.message });
+  }
+});
+
+// 🔹 Belirli bir park yerini sil
 router.delete("/:id", verifyToken, async (req, res) => {
   try {
     await ParkingSpot.findByIdAndDelete(req.params.id);
     res.json({ message: "Park yeri silindi" });
   } catch (err) {
-    res.status(500).json({ message: "Park yeri silinemedi", error: err.message });
+    res.status(500).json({ message: "Silme başarısız", error: err.message });
   }
 });
 

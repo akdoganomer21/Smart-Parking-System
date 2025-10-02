@@ -13,9 +13,9 @@ const app = express();
 app.use(
   cors({
     origin: [
-      "http://localhost:5173", 
+      "http://localhost:5173",
       "https://smart-parking-turkey.netlify.app",
-      "https://smart-parking-system-cidh.onrender.com" // 🔹 backend domainini de ekle
+      "https://smart-parking-system-cidh.onrender.com" // backend domain
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
@@ -27,7 +27,7 @@ app.use(express.json());
 
 // Routes
 const authRoutes = require("./routes/auth");
-const parkingRoutes = require("./routes/parkingSpots");
+const parkingRoutes = require("./routes/parking"); // ✅ sadece parking.js kullanılıyor
 
 // Route'ları kullan
 app.use("/api/auth", authRoutes);
@@ -51,6 +51,6 @@ app.get("/", (req, res) => {
 
 // Sunucuyu başlat
 const PORT = process.env.PORT || 5050;
-app.listen(PORT, () =>
-  console.log(`🚀 Sunucu ${PORT} portunda çalışıyor`)
-);
+app.listen(PORT, () => {
+  console.log(`🚀 Sunucu ${PORT} portunda çalışıyor`);
+});
