@@ -13,8 +13,8 @@ export default function LoginPage() {
   const [passwordError, setPasswordError] = useState(false);
   const navigate = useNavigate();
 
-  // ✅ API URL fallback (önce Netlify env, yoksa local)
-  const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5050";
+  // ✅ CRA için REACT_APP_ prefix ile
+  const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5050";
   console.log("Login API URL:", API_URL);
 
   // 🔹 Retry mekanizması
