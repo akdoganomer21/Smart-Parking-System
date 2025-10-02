@@ -17,8 +17,8 @@ const RegisterPage = () => {
   const [success, setSuccess] = useState("");
   const [shake, setShake] = useState(false);
 
-  // ✅ API URL fallback (önce Netlify env, yoksa local)
-  const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5050";
+  // ✅ CRA için REACT_APP_ prefix ile
+  const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5050";
   console.log("Register API URL:", API_URL);
 
   const validateEmail = (email) => /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email);
@@ -46,7 +46,7 @@ const RegisterPage = () => {
     setTimeout(() => setShake(false), 600);
   };
 
-  // 🔹 Retry mekanizması (Render uyanırken denemeye devam etsin diye)
+  // 🔹 Retry mekanizması
   const fetchWithRetry = async (url, options, retries = 3, delay = 2000) => {
     try {
       return await fetch(url, options);
