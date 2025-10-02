@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { FaSearch, FaTimes } from "react-icons/fa";
-import UserNavbar from "../components/UserNavbar"; // ✅ Sadece burada import ve 1 kez kullanılır
+import UserNavbar from "../components/UserNavbar";
 
 const UserDashboard = () => {
   const [spots, setSpots] = useState([]);
@@ -10,14 +10,21 @@ const UserDashboard = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const [totalPages, setTotalPages] = useState(1);
 
+  // ✅ API URL fallback
+  const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5050";
+  const token = localStorage.getItem("token");
+
   const fetchSpots = async () => {
     setLoading(true);
     try {
-      const res = await axios.get(`http://localhost:5050/api/parkingspots?page=${currentPage}&limit=10`, {
-        headers: {
-          Authorization: `Bearer ${localStorage.getItem("token")}`,
-        },
-      });
+      const res = await axios.get(
+        `${API_URL}/api/parkingspots?page=${currentPage}&limit=10`,
+        {
+          headers: {
+            Authorization: `Bearer ${token}`, // ✅ Token ekledik
+          },
+        }
+      );
       setSpots(res.data.spots || []);
       setTotalPages(res.data.totalPages || 1);
     } catch (err) {
@@ -43,15 +50,17 @@ const UserDashboard = () => {
   const filteredSpots = Array.isArray(spots)
     ? spots.filter(
         (spot) =>
-          (filters.city === "" || spot.city?.toLowerCase().includes(filters.city.toLowerCase())) &&
+          (filters.city === "" ||
+            spot.city?.toLowerCase().includes(filters.city.toLowerCase())) &&
           (filters.type === "" || spot.type === filters.type) &&
-          (filters.spotNumber === "" || spot.spotNumber?.includes(filters.spotNumber))
+          (filters.spotNumber === "" ||
+            spot.spotNumber?.includes(filters.spotNumber))
       )
     : [];
 
   return (
     <>
-      <UserNavbar /> {/* ✅ Yalnızca burada kullanılmalı */}
+      <UserNavbar />
       <div className="p-6">
         <h2 className="text-3xl font-bold mb-4">Otopark Arama</h2>
 
@@ -86,7 +95,10 @@ const UserDashboard = () => {
             placeholder="Park No"
             className="p-2 border rounded w-64"
           />
-          <button className="bg-blue-600 text-white p-2 rounded" onClick={fetchSpots}>
+          <button
+            className="bg-blue-600 text-white p-2 rounded"
+            onClick={fetchSpots}
+          >
             <FaSearch /> Ara
           </button>
           <button
@@ -141,7 +153,10 @@ const UserDashboard = () => {
 
               {currentPage > 3 && (
                 <>
-                  <button onClick={() => setCurrentPage(1)} className="px-3 py-1 bg-gray-200 rounded">
+                  <button
+                    onClick={() => setCurrentPage(1)}
+                    className="px-3 py-1 bg-gray-200 rounded"
+                  >
                     1
                   </button>
                   {currentPage > 4 && <span className="px-2">...</span>}
@@ -156,7 +171,9 @@ const UserDashboard = () => {
                     key={page}
                     onClick={() => setCurrentPage(page)}
                     className={`px-3 py-1 rounded ${
-                      currentPage === page ? "bg-blue-500 text-white" : "bg-gray-100"
+                      currentPage === page
+                        ? "bg-blue-500 text-white"
+                        : "bg-gray-100"
                     }`}
                   >
                     {page}
@@ -167,7 +184,10 @@ const UserDashboard = () => {
               {currentPage < totalPages - 2 && (
                 <>
                   {currentPage < totalPages - 3 && <span className="px-2">...</span>}
-                  <button onClick={() => setCurrentPage(totalPages)} className="px-3 py-1 bg-gray-200 rounded">
+                  <button
+                    onClick={() => setCurrentPage(totalPages)}
+                    className="px-3 py-1 bg-gray-200 rounded"
+                  >
                     {totalPages}
                   </button>
                 </>

@@ -3,6 +3,8 @@ import axios from "axios";
 
 function AdminDashboard() {
   const [parkingSpots, setParkingSpots] = useState([]);
+  const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5050";
+  const token = localStorage.getItem("token"); // ✅ token alındı
 
   useEffect(() => {
     fetchParkingSpots();
@@ -10,8 +12,12 @@ function AdminDashboard() {
 
   const fetchParkingSpots = async () => {
     try {
-      const response = await axios.get("http://localhost:5000/api/parkings");
-      setParkingSpots(response.data);
+      const response = await axios.get(`${API_URL}/api/parkingspots`, {
+        headers: {
+          Authorization: `Bearer ${token}`, // ✅ Token ekledik
+        },
+      });
+      setParkingSpots(response.data.spots || []);
     } catch (err) {
       console.error("Veri alınırken hata oluştu", err);
     }
@@ -19,7 +25,11 @@ function AdminDashboard() {
 
   const deleteParkingSpot = async (id) => {
     try {
-      await axios.delete(`http://localhost:5000/api/parkings/${id}`);
+      await axios.delete(`${API_URL}/api/parkingspots/${id}`, {
+        headers: {
+          Authorization: `Bearer ${token}`, // ✅ Token ekledik
+        },
+      });
       setParkingSpots(parkingSpots.filter((spot) => spot._id !== id));
     } catch (err) {
       console.error("Silme işlemi başarısız", err);

@@ -10,7 +10,8 @@ router.post("/register", async (req, res) => {
   try {
     const { name, email, password } = req.body;
 
-    const emailRegex = /^[^\s@]+@[a-zA-Z0-9.-]+\.(com|net|org|edu|gov|mil|co|info|biz|io|me|tech)$/;
+    // ✅ Daha genel email regex
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!emailRegex.test(email)) {
       return res.status(400).json({ message: "Geçersiz e-posta formatı" });
     }
@@ -53,11 +54,10 @@ router.post("/login", async (req, res) => {
     const isMatch = await bcrypt.compare(password, user.password);
     if (!isMatch) return res.status(400).json({ message: "Geçersiz şifre" });
 
-    // ✅ Kullanıcı adı da token içine eklendi
     const token = jwt.sign(
       {
         id: user._id,
-        name: user.name,        // ✅ EKLENDİ
+        name: user.name,
         email: user.email,
         role: user.role,
       },

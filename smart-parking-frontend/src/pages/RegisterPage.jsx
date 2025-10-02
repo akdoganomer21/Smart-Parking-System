@@ -17,6 +17,10 @@ const RegisterPage = () => {
   const [success, setSuccess] = useState("");
   const [shake, setShake] = useState(false);
 
+  // ✅ API URL fallback (önce Netlify env, yoksa local)
+  const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5050";
+  console.log("Register API URL:", API_URL);
+
   const validateEmail = (email) => /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email);
 
   const handleChange = (e) => {
@@ -42,6 +46,20 @@ const RegisterPage = () => {
     setTimeout(() => setShake(false), 600);
   };
 
+  // 🔹 Retry mekanizması (Render uyanırken denemeye devam etsin diye)
+  const fetchWithRetry = async (url, options, retries = 3, delay = 2000) => {
+    try {
+      return await fetch(url, options);
+    } catch (err) {
+      if (retries > 0) {
+        console.warn(`Register fetch hatası, tekrar deneniyor... (${retries} kaldı)`);
+        await new Promise((res) => setTimeout(res, delay));
+        return fetchWithRetry(url, options, retries - 1, delay);
+      }
+      throw err;
+    }
+  };
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     const { length, uppercase, lowercase, number } = passwordRules;
@@ -63,25 +81,23 @@ const RegisterPage = () => {
     setEmailValid(true);
 
     try {
-      const res = await fetch(
-        `${import.meta.env.VITE_API_URL}/api/auth/register`,
-        {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(form),
-        }
-      );
+      const res = await fetchWithRetry(`${API_URL}/api/auth/register`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(form),
+      });
 
       const data = await res.json();
 
       if (res.ok) {
-        setSuccess("Kayıt başarılı. Giriş ekranına yönlendiriliyorsunuz...");
+        setSuccess("Kayıt başarılı ✅ Giriş ekranına yönlendiriliyorsunuz...");
         setTimeout(() => navigate("/login"), 3000);
       } else {
-        setError(data.message || "Kayıt başarısız");
+        setError(data.message || "Kayıt başarısız ❌");
         triggerShake();
       }
     } catch (err) {
+      console.error("Register error:", err);
       setError("Sunucuya ulaşılamıyor. Lütfen tekrar deneyin.");
       triggerShake();
     }

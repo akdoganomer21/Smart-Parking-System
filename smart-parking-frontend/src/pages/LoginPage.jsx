@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { FaEye, FaEyeSlash } from "react-icons/fa";
-import LoginNavbar from "../components/LoginNavbar"; // ✅ Navbar eklendi
+import LoginNavbar from "../components/LoginNavbar";
 
 export default function LoginPage() {
   const [email, setEmail] = useState("");
@@ -13,6 +13,24 @@ export default function LoginPage() {
   const [passwordError, setPasswordError] = useState(false);
   const navigate = useNavigate();
 
+  // ✅ API URL fallback (önce Netlify env, yoksa local)
+  const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5050";
+  console.log("Login API URL:", API_URL);
+
+  // 🔹 Retry mekanizması
+  const fetchWithRetry = async (url, options, retries = 3, delay = 2000) => {
+    try {
+      return await fetch(url, options);
+    } catch (err) {
+      if (retries > 0) {
+        console.warn(`Login fetch hatası, tekrar deneniyor... (${retries} kaldı)`);
+        await new Promise((res) => setTimeout(res, delay));
+        return fetchWithRetry(url, options, retries - 1, delay);
+      }
+      throw err;
+    }
+  };
+
   const handleLogin = async () => {
     setError("");
     setSuccess("");
@@ -20,7 +38,7 @@ export default function LoginPage() {
     setPasswordError(false);
 
     try {
-      const res = await fetch("http://localhost:5050/api/auth/login", {
+      const res = await fetchWithRetry(`${API_URL}/api/auth/login`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, password }),
@@ -30,13 +48,11 @@ export default function LoginPage() {
 
       if (res.ok) {
         localStorage.setItem("token", data.token);
-        setSuccess("Giriş başarılı!");
-        setTimeout(() => {
-          navigate("/dashboard");
-        }, 2000);
+        setSuccess("✅ Giriş başarılı!");
+        setTimeout(() => navigate("/dashboard"), 2000);
       } else {
-        setError("Yanlış e-posta veya şifre.");
-        if (!data.user.email === email) {
+        setError(data.message || "Yanlış e-posta veya şifre.");
+        if (data?.user?.email && data.user.email !== email) {
           setEmailError(true);
         }
         if (data.message === "Geçersiz şifre") {
@@ -44,24 +60,33 @@ export default function LoginPage() {
         }
       }
     } catch (err) {
-      setError("Hata: " + err.message);
+      console.error("Login error:", err);
+      setError("Sunucuya ulaşılamıyor. Lütfen tekrar deneyin.");
+      localStorage.removeItem("token"); // güvenlik için bozuk token sil
     }
   };
 
   return (
     <div className="min-h-screen bg-gradient-to-r from-indigo-600 to-indigo-800 pt-20">
-      <LoginNavbar /> {/* ✅ Navbar çağrıldı */}
+      <LoginNavbar />
 
       <div className="flex items-center justify-center">
         <div className="w-full max-w-2xl bg-white p-8 rounded-lg shadow-xl">
           {/* Proje Tanıtım Metni */}
           <div className="text-center mb-6 text-indigo-700">
-            <p className="text-xl font-medium">Akıllı Otopark Yönetim Sistemine Hoş Geldiniz!</p>
-            <p>En yakın otopark alanını kolayca bulabilir, araç tipinizi seçerek otopark durumunu öğrenebilirsiniz.</p>
+            <p className="text-xl font-medium">
+              Akıllı Otopark Yönetim Sistemine Hoş Geldiniz!
+            </p>
+            <p>
+              En yakın otopark alanını kolayca bulabilir, araç tipinizi seçerek
+              otopark durumunu öğrenebilirsiniz.
+            </p>
           </div>
 
           {/* Giriş Formu */}
-          <h2 className="text-2xl font-bold text-center text-indigo-600 mb-6">Giriş Yap</h2>
+          <h2 className="text-2xl font-bold text-center text-indigo-600 mb-6">
+            Giriş Yap
+          </h2>
 
           <div className="space-y-4">
             {/* E-posta */}

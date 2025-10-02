@@ -1,9 +1,9 @@
 const express = require("express");
 const router = express.Router();
 const ParkingSpot = require("../models/ParkingSpot");
-const verifyToken = require("../middleware/authMiddleware"); // ✅ Token doğrulama eklendi
+const verifyToken = require("../middleware/authMiddleware");
 
-// 👉 Yeni park alanı oluştur (korumalı)
+// 👉 Yeni park alanı oluştur (sadece login olan)
 router.post("/", verifyToken, async (req, res) => {
   try {
     const newSpot = new ParkingSpot(req.body);
@@ -14,8 +14,8 @@ router.post("/", verifyToken, async (req, res) => {
   }
 });
 
-// routes/parking.js (güncellenmiş)
-router.get("/", verifyToken, async (req, res) => {
+// 👉 Park yerlerini listele (herkes görebilir)
+router.get("/", async (req, res) => {
   try {
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 10;
@@ -34,8 +34,7 @@ router.get("/", verifyToken, async (req, res) => {
   }
 });
 
-
-// 👉 Belirli bir park alanını güncelle (korumalı)
+// 👉 Belirli bir park alanını güncelle (login gerekli)
 router.put("/:id", verifyToken, async (req, res) => {
   try {
     const updatedSpot = await ParkingSpot.findByIdAndUpdate(req.params.id, req.body, { new: true });
@@ -45,7 +44,7 @@ router.put("/:id", verifyToken, async (req, res) => {
   }
 });
 
-// 👉 Belirli bir park alanını sil (korumalı)
+// 👉 Belirli bir park alanını sil (login gerekli)
 router.delete("/:id", verifyToken, async (req, res) => {
   try {
     await ParkingSpot.findByIdAndDelete(req.params.id);
@@ -55,5 +54,4 @@ router.delete("/:id", verifyToken, async (req, res) => {
   }
 });
 
-// ✅ Eksik olan export satırı eklendi
 module.exports = router;
